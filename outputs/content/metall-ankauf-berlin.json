@@ -1,0 +1,98 @@
+{
+  "path": "/metall-ankauf-berlin/",
+  "template": "landing",
+  "title": "Metall Ankauf Berlin | Peglow Schrott und Metallhandel",
+  "meta_description": "Metall Ankauf in Berlin beim Fachmann: akkurates Wiegen in Ihrem Beisein, Tageshöchstpreise, Barauszahlung – für Privat & Gewerbe. ☎ 030 43206315",
+  "h1": "Metall Ankauf in Berlin – beim Fachmann zu Tageshöchstpreisen",
+  "hero_kicker": "Familienunternehmen mit über 20 Jahren Branchenkenntnis",
+  "hero_text": "Ob Privatkunde, Handwerk oder Industrie: Wir machen aus Ihrem Metallschrott Geld – akkurat gewogen, fair berechnet, bar ausgezahlt.",
+  "hero_image": "Fahrerseite_mit_Container_schraeg_2.webp",
+  "breadcrumb": [
+    [
+      "Startseite",
+      "/"
+    ],
+    [
+      "Metall-Ankauf",
+      "/metall-ankauf/"
+    ],
+    [
+      "Metall Ankauf Berlin",
+      "/metall-ankauf-berlin/"
+    ]
+  ],
+  "intro": "<p>Beim Metall Ankauf in Berlin von Peglow Schrott und Metallhandel e.K. sind Sie beim Fachmann: Ganz gleich, ob Sie Privatkunde sind oder aus Industrie und Handwerk kommen – wir kümmern uns mit sicherer Materialkenntnis um alle Abläufe, um aus Ihrem Schrott Geld zu machen. Mit über 20 Jahren Branchenerfahrung sorgen wir für akkurate Gewichtserfassung in Ihrer Anwesenheit, faire Konditionen zu Tageshöchstpreisen, schnelle Bedienung und eine unkomplizierte Barauszahlung – auf unserem Schrottplatz in Berlin-Reinickendorf, Soltauer Straße 27-29.</p>",
+  "sections": [
+    {
+      "heading": "Welche Metalle kaufen wir in Berlin an?",
+      "html": "<p>Wir bieten unseren Kunden den Metall Ankauf in Berlin für alle gängigen Sorten:</p><ul><li><a href=\"/aluminium/\">Aluminium</a> und <a href=\"/aluminium-guss/\">Aluminium-Guss</a></li><li><a href=\"/blei/\">Blei</a> und <a href=\"/zink/\">Zink</a></li><li><a href=\"/edelstahl/\">Edelstahl</a></li><li><a href=\"/kupfer/\">Kupfer Millberry</a> und <a href=\"/kupfer-raff/\">Kupfer Raff</a></li><li><a href=\"/messing/\">Messing</a> und <a href=\"/messing-raff/\">Messing Raff</a></li><li><a href=\"/kabel/\">Kabel</a></li></ul><p>Dazu kommen Schrottarten wie <a href=\"/moniereisen/\">Moniereisen</a>, <a href=\"/bremsscheiben/\">Bremsscheiben</a>, <a href=\"/mischschrott/\">Mischschrott</a>, <a href=\"/schienen/\">Schienen</a>, <a href=\"/guss/\">Guss</a> und <a href=\"/brennerschrott/\">Brennerschrott</a>.</p>"
+    },
+    {
+      "heading": "Wie läuft der Metall Ankauf bei Peglow ab?",
+      "html": "<ol><li><strong>Anliefern oder abholen lassen:</strong> Bringen Sie Buntmetalle, Kabel und Eisenschrott bei uns vorbei – oder lassen Sie größere Mengen bequem über unseren <a href=\"/container/\">Containerservice mit 5 bis 30 m³ Volumen</a> abholen.</li><li><strong>Wiegen in Ihrer Anwesenheit:</strong> Wir erfassen das Gewicht Ihrer Güter akkurat – Sie schauen dabei zu.</li><li><strong>Tageshöchstpreis und Barauszahlung:</strong> Wir berechnen transparent nach Tageshöchstpreisen und zahlen Sie direkt bar aus.</li></ol>"
+    },
+    {
+      "heading": "Für wen lohnt sich der Metall Ankauf?",
+      "html": "<p>Für alle, bei denen Metall anfällt: Privathaushalte mit Kellerfunden und alten Leitungen, Handwerksbetriebe mit Verschnitt und Demontagematerial, Industrie und Bau mit regelmäßigem Schrottaufkommen. Als Familienunternehmen für fairen Metall Ankauf und umweltgerechte Verwertung sind wir Ihr Profi für die verschiedensten Schrottarten. Unser fachkundiges Team berät Sie gern persönlich vor Ort, telefonisch unter 030 43206315 oder per E-Mail an info@schrott-berlin.de.</p>"
+    },
+    {
+      "heading": "Woher kommen unsere Preise?",
+      "html": "<p>Metallpreise schwanken täglich mit den Börsenkursen. Deshalb kaufen wir zu Tageshöchstpreisen an – Sie bekommen den Wert, den Ihr Metall am Tag der Abgabe tatsächlich hat. Eine Übersicht und Hinweise zur Preisbildung finden Sie unter <a href=\"/schrottpreise/\">Schrottpreise Berlin</a>. Tipp: Sortenrein getrennte Metalle erzielen bessere Preise als <a href=\"/mischschrott/\">Mischschrott</a>.</p>"
+    }
+  ],
+  "checklist": [
+    "Akkurate Gewichtserfassung in Ihrer Anwesenheit",
+    "Tageshöchstpreise – börsenorientiert",
+    "Schnelle Bedienung, simple Abläufe",
+    "Barauszahlung direkt vor Ort",
+    "Containerservice von 5 bis 30 m³",
+    "Für Privatkunden, Handwerk und Industrie"
+  ],
+  "faq": [
+    {
+      "q": "Welche Metalle kauft Peglow in Berlin an?",
+      "a": "Wir kaufen Aluminium, Blei, Edelstahl, Zink, Kupfer (Millberry und Raff), Messing, Messing-Raff, Aluminium-Guss und Kabel an – dazu Eisenschrott, Guss, Moniereisen, Bremsscheiben, Schienen, Brennerschrott und Mischschrott. Im Zweifel bringen Sie Ihr Material einfach mit, wir bestimmen es vor Ort."
+    },
+    {
+      "q": "Wie wird der Preis beim Metall Ankauf ermittelt?",
+      "a": "Ihr Metall wird in Ihrer Anwesenheit akkurat gewogen, das Material fachkundig bestimmt und nach dem Tageshöchstpreis berechnet, der sich an den aktuellen Metallbörsenkursen orientiert. Ausgezahlt wird direkt in bar. Konkrete Tagespreise erfragen Sie unter 030 43206315."
+    },
+    {
+      "q": "Kauft Peglow auch von Firmen und Handwerksbetrieben an?",
+      "a": "Ja, wir arbeiten seit über 20 Jahren mit Privatkunden ebenso wie mit Industrie und Handwerk. Für Betriebe mit regelmäßigem Metallaufkommen stellen wir Container von 5 bis 30 m³ und holen das Material im gesamten Berliner Einzugsgebiet ab."
+    },
+    {
+      "q": "Gibt es einen Abholservice für Metall in Berlin?",
+      "a": "Ja. Größere Mengen holen wir mit unserem Containerservice ab – Absetzer, Mulden und Abrollcontainer von 5 bis 30 Kubikmetern. Das Einzugsgebiet umfasst ganz Berlin und das gesamte Berliner Umland. Kleinere Mengen liefern Sie am schnellsten selbst in der Soltauer Straße 27-29 an."
+    }
+  ],
+  "service_schema": {
+    "name": "Metall Ankauf Berlin",
+    "serviceType": "Ankauf von Metallen und Metallschrott",
+    "description": "Professioneller Metall Ankauf in Berlin für Privat und Gewerbe: Wiegen in Anwesenheit des Kunden, Tageshöchstpreise, Barauszahlung, Containerservice."
+  },
+  "related": [
+    [
+      "Alle Metallsorten im Überblick",
+      "/metall-ankauf/"
+    ],
+    [
+      "Aktuelle Schrottpreise",
+      "/schrottpreise/"
+    ],
+    [
+      "Containerservice 5–30 m³",
+      "/container/"
+    ],
+    [
+      "Kupfer Ankauf Berlin",
+      "/kupfer-ankauf-berlin/"
+    ],
+    [
+      "Einzugsgebiete",
+      "/einzugsgebiete/"
+    ]
+  ],
+  "cta_heading": "Metall verkaufen in Berlin? Jetzt Tagespreis erfragen!",
+  "cta_text": "Rufen Sie an oder kommen Sie direkt vorbei: 030 43206315 – Soltauer Straße 27-29, 13509 Berlin, Mo–Fr 8:00–17:00 Uhr."
+}

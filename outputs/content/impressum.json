@@ -1,0 +1,34 @@
+{
+  "path": "/impressum/",
+  "template": "legal",
+  "title": "Impressum | Peglow Schrott und Metall Berlin",
+  "meta_description": "Impressum der Peglow Schrott und Metallhandel e.K., Soltauer Straße 27-29, 13509 Berlin – Inhaber Philip Peglow, Kontakt, Zertifikate und Rechtshinweise.",
+  "h1": "Impressum",
+  "hero_kicker": "Peglow Schrott und Metallhandel e.K.",
+  "hero_text": "Anbieterkennzeichnung und rechtliche Hinweise.",
+  "hero_image": "alloy-aluminum-close-up-1427292.webp",
+  "breadcrumb": [["Startseite", "/"], ["Impressum", "/impressum/"]],
+  "intro": "<p>Impressum der Peglow Schrott und Metallhandel e.K., Soltauer Straße 27-29, 13509 Berlin.</p>",
+  "sections": [
+    {
+      "heading": "Angaben zum Unternehmen",
+      "html": "<p>Peglow Schrott und Metallhandel e.K.<br>Inhaber: Philip Peglow<br>Soltauer Straße 27-29<br>13509 Berlin</p><p>Tel: 030 43206315<br>Fax: 030 43206316<br>Email: info@schrott-berlin.de</p><p>USt-Id Nr. DE458291881</p>"
+    },
+    {
+      "heading": "Zertifikate",
+      "html": "<p>Zertifikate zur Aufsicht mit zuständiger behördlicher Vorgangsnummer ZZLT004001000008:</p><ul><li>Geprüfter Entsorgungsfachbetrieb zur Lagerung gemäß §56 Kreislaufwirtschaftsgesetz (KrWG) – OEControl Nr: OETH11012021</li><li>Geprüfter Entsorgungsfachbetrieb für abfallwirtschaftliche Tätigkeiten gemäß §56 Kreislaufwirtschaftsgesetz (KrWG) – OEControl Nr: OEEW11012025</li></ul>"
+    },
+    {
+      "heading": "Bildrechte",
+      "html": "<p>Bildrechte: Philip Peglow</p>"
+    },
+    {
+      "heading": "Haftungshinweis",
+      "html": "<p>Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.</p>"
+    },
+    {
+      "heading": "Rechte",
+      "html": "<p>Alle Rechte vorbehalten. Die verwendeten Bilder, Texte und Animationsdateien unterliegen dem Urheberrecht und anderen Gesetzen zum Schutz des geistigen Eigentums. Die Weitergabe, Veränderung, gewerbliche Nutzung oder Verwendung auf anderen Webseiten ist untersagt.</p><p>© Schrott und Metall 2026</p>"
+    }
+  ]
+}

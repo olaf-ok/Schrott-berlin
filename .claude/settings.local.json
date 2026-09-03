@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bash /Users/olafkranz/Documents/Code/Schrott-Berlin-2026/outputs/deploy.sh)"
+    ]
+  }
+}

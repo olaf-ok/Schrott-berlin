@@ -1,0 +1,95 @@
+{
+ "path": "/einzugsgebiete/",
+ "template": "service",
+ "title": "Einzugsgebiete: Container-Service Berlin & Umland | Peglow",
+ "meta_description": "Schrotthandel in ganz Berlin & Umgebung: Peglow stellt Container (5–30 m³) in allen Bezirken und im Berliner Umland auf. Jetzt anrufen ☎ 030 43206315!",
+ "h1": "Unsere Einzugsgebiete – Schrotthandel in Berlin und Umgebung",
+ "hero_kicker": "Container in ganz Berlin + Umland",
+ "hero_text": "Ob Mitte, Spandau oder Falkensee: Wir stellen Ihnen einen Container zum Selbstbeladen in allen Berliner Bezirken und im Umland auf.",
+ "hero_image": "bagger2.webp",
+ "breadcrumb": [
+  [
+   "Startseite",
+   "/"
+  ],
+  [
+   "Einzugsgebiete",
+   "/einzugsgebiete/"
+  ]
+ ],
+ "intro": "<p>Peglow Schrott und Metallhandel e.K. ist Ihr Partner rund um Schrott-Ankauf und -Verkauf in Berlin und Umgebung. An uns wenden sich Privat- und Gewerbekunden aus allen Berliner Bezirken – von Mitte über Charlottenburg-Wilmersdorf und Spandau bis Treptow-Köpenick – sowie aus dem gesamten Berliner Umland.</p><p>Für größere Mengen stellen wir Ihnen einen Container zum Selbstbeladen (5–30 m³) auf und holen ihn nach der Befüllung wieder ab; kleinere Mengen können Sie direkt an unserem Schrottplatz in der Soltauer Straße 27-29, 13509 Berlin-Reinickendorf anliefern.</p>",
+ "sections": [
+  {
+   "heading": "In welchen Berliner Bezirken stellt Peglow Container auf?",
+   "html": "<p>Wir sind in allen Berliner Bezirken für Sie unterwegs. Auf den folgenden Seiten finden Sie Informationen zu unserem Container-Service und dem Schrott-Ankauf in Ihrem Bezirk:</p><ul><li><a href=\"/schrottplatz-berlin/\">Schrottplatz Berlin</a> – die Übersicht für die ganze Stadt</li><li><a href=\"/schrottplatz-reinickendorf/\">Schrottplatz Reinickendorf</a> – hier liegt unser Betriebsgelände</li><li><a href=\"/schrottplatz-mitte/\">Schrottplatz Mitte</a> (mit Tiergarten und Wedding)</li><li><a href=\"/schrottplatz-charlottenburg/\">Schrottplatz Charlottenburg</a></li><li><a href=\"/schrottplatz-wilmersdorf/\">Schrottplatz Wilmersdorf</a></li><li><a href=\"/schrottplatz-spandau/\">Schrottplatz Spandau</a></li><li><a href=\"/schrottplatz-pankow/\">Schrottplatz Pankow</a> (mit Prenzlauer Berg und Weißensee)</li><li><a href=\"/schrottplatz-friedrichshain/\">Schrottplatz Friedrichshain</a></li><li><a href=\"/schrottplatz-kreuzberg/\">Schrottplatz Kreuzberg</a></li><li><a href=\"/schrottplatz-neukoelln/\">Schrottplatz Neukölln</a></li><li><a href=\"/schrottplatz-tempelhof/\">Schrottplatz Tempelhof</a></li><li><a href=\"/schrottplatz-schoeneberg/\">Schrottplatz Schöneberg</a></li><li><a href=\"/schrottplatz-steglitz/\">Schrottplatz Steglitz</a></li><li><a href=\"/schrottplatz-zehlendorf/\">Schrottplatz Zehlendorf</a></li><li><a href=\"/schrottplatz-treptow/\">Schrottplatz Treptow</a></li><li><a href=\"/schrottplatz-koepenick/\">Schrottplatz Köpenick</a></li></ul><p>Auch aus Marzahn-Hellersdorf und Lichtenberg (inkl. Hohenschönhausen) kommen unsere Kunden regelmäßig zu uns – rufen Sie einfach an unter 030 43206315.</p>"
+  },
+  {
+   "heading": "Container-Service im gesamten Berliner Umland",
+   "html": "<p>Unser Einzugsgebiet endet nicht an der Stadtgrenze: Wir stellen Container auch im Berliner Umland auf – zum Beispiel in <a href=\"/schrottplatz-falkensee/\">Falkensee</a>. Gerade für Gewerbekunden mit größeren Mengen, Baustellen oder regelmäßigem Schrottaufkommen lohnt sich ein Container zum Selbstbeladen: Vereinbaren Sie einfach telefonisch einen Termin, wir stellen ihn auf und holen ihn nach der Befüllung wieder ab.</p>"
+  },
+  {
+   "heading": "Welche Ortsteile gehören zu unserem Einzugsgebiet?",
+   "html": "<p>Zu unserem Einzugsgebiet zählen unter anderem: Mitte, Moabit, Hansaviertel, Tiergarten, Wedding, Gesundbrunnen, Friedrichshain, Kreuzberg, Prenzlauer Berg, Weißensee, Blankenburg, Heinersdorf, Karow, Pankow, Buch, Französisch Buchholz, Niederschönhausen, Rosenthal, Wilhelmsruh, Charlottenburg, Wilmersdorf, Schmargendorf, Grunewald, Westend, Halensee, Spandau, Haselhorst, Siemensstadt, Staaken, Gatow, Kladow, Hakenfelde, Wilhelmstadt, Steglitz, Lichterfelde, Lankwitz, Zehlendorf, Dahlem, Nikolassee, Wannsee, Schöneberg, Friedenau, Tempelhof, Mariendorf, Marienfelde, Lichtenrade, Neukölln, Britz, Buckow, Rudow, Gropiusstadt, Alt-Treptow, Plänterwald, Baumschulenweg, Johannisthal, Niederschöneweide, Altglienicke, Adlershof, Bohnsdorf, Oberschöneweide, Köpenick, Friedrichshagen, Rahnsdorf, Grünau, Müggelheim, Schmöckwitz, Marzahn, Biesdorf, Kaulsdorf, Mahlsdorf, Hellersdorf, Friedrichsfelde, Karlshorst, Lichtenberg, Alt- und Neu-Hohenschönhausen, Fennpfuhl, Rummelsburg, Reinickendorf, Tegel, Konradshöhe, Heiligensee, Frohnau, Hermsdorf, Waidmannslust, Lübars, Wittenau, Märkisches Viertel und Borsigwalde.</p>"
+  },
+  {
+   "heading": "Warum lohnt sich der Weg zu Peglow?",
+   "html": "<p>Im Großraum Berlin gibt es etliche Unternehmen im Schrotthandel – unsere Kunden kommen trotzdem auch aus entfernteren Bezirken und Regionen zu uns. Sie schätzen die Kontinuität in der Zusammenarbeit und die Verlässlichkeit unserer geschäftlichen Rahmenbedingungen. Seit über 20 Jahren stehen wir für faire Ankaufspreise, schnelle Entscheidungen, faire Bewertung, persönliche Ansprechpartner und profunde Materialkenntnis. Vergüten tun wir nach <a href=\"/schrottpreise/\">tagesaktuellen Schrottpreisen</a> – ob beim Container-Service oder bei der Selbstanlieferung an unserem <a href=\"/anfahrt/\">Schrottplatz in Reinickendorf</a>. Mehr über uns erfahren Sie auf der Seite <a href=\"/uber-uns/\">Über uns</a>.</p>"
+  }
+ ],
+ "checklist": [
+  "Container zum Selbstbeladen in allen Berliner Bezirken",
+  "Auch im gesamten Berliner Umland unterwegs",
+  "Faire Ankaufspreise und faire Bewertung",
+  "Schnelle Entscheidungen, persönlicher Ansprechpartner",
+  "Über 20 Jahre Erfahrung und Materialkenntnis",
+  "Selbstanlieferung in Reinickendorf möglich"
+ ],
+ "faq": [
+  {
+   "q": "Stellt Peglow Container in ganz Berlin auf?",
+   "a": "Ja. Wir stellen Container in allen Berliner Bezirken auf – von Mitte über Spandau und Neukölln bis Köpenick – sowie im gesamten Berliner Umland. Vereinbaren Sie einfach telefonisch einen Termin unter 030 43206315."
+  },
+  {
+   "q": "Ab welcher Menge lohnt sich ein Container?",
+   "a": "Ein Container zum Selbstbeladen (5–30 m³) bietet sich vor allem bei größeren Mengen an, etwa von Baustellen, aus Gewerbebetrieben oder bei Entrümpelungen. Kleinere Mengen können Sie jederzeit selbst an unserem Schrottplatz in der Soltauer Straße 27-29, 13509 Berlin-Reinickendorf anliefern – Montag bis Freitag von 8 bis 17 Uhr. Rufen Sie uns an, wir finden die passende Lösung."
+  },
+  {
+   "q": "Wo liegt der Schrottplatz von Peglow?",
+   "a": "Unser Betriebsgelände liegt in der Soltauer Straße 27-29, 13509 Berlin, im Bezirk Reinickendorf (Ortsteil Borsigwalde). Dort kaufen wir Ihren Schrott bei Selbstanlieferung direkt an – gesichtet, gewogen und nach tagesaktuellen Preisen vergütet."
+  },
+  {
+   "q": "Kommt Peglow auch nach Brandenburg?",
+   "a": "Ja, unser Einzugsgebiet umfasst neben Berlin auch das Umland – zum Beispiel Falkensee. Ob wir auch zu Ihrem Standort kommen, klären wir gern kurz am Telefon unter 030 43206315, zusammen mit Material, Menge und Termin."
+  }
+ ],
+ "service_schema": {
+  "name": "Container-Service für Schrott in Berlin und Umgebung",
+  "serviceType": "Aufstellung von Containern zum Selbstbeladen sowie Ankauf von Schrott und Altmetall in Berlin und im gesamten Berliner Umland",
+  "description": "Peglow Schrott und Metallhandel e.K. stellt Container zum Selbstbeladen (5–30 m³) in allen Berliner Bezirken und im gesamten Berliner Umland auf."
+ },
+ "related": [
+  [
+   "Schrott-Ankauf",
+   "/schrott-ankauf/"
+  ],
+  [
+   "Container mieten",
+   "/container/"
+  ],
+  [
+   "Aktuelle Schrottpreise",
+   "/schrottpreise/"
+  ],
+  [
+   "Anfahrt zum Schrottplatz",
+   "/anfahrt/"
+  ],
+  [
+   "Schrottplatz Reinickendorf",
+   "/schrottplatz-reinickendorf/"
+  ]
+ ],
+ "cta_heading": "Container zum Selbstbeladen? Wir stellen ihn auf!",
+ "cta_text": "Rufen Sie uns an unter 030 43206315 und nennen Sie uns Material, Menge und Standort – wir vereinbaren kurzfristig einen Termin zur Containeraufstellung.",
+ "show_map": true
+}

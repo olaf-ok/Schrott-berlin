@@ -1,0 +1,127 @@
+{
+ "path": "/kupfer-ankauf-berlin/",
+ "template": "material",
+ "title": "Kupfer-Ankauf Berlin – Container & Barzahlung | Peglow",
+ "meta_description": "Kupfer-Ankauf in Berlin: Anrufen, Tagespreis erfragen, anliefern oder Container bestellen – Peglow vergütet fair nach aktuellem Kurs. ☎ 030 43206315",
+ "h1": "Kupfer-Ankauf in Berlin: So einfach verkaufen Sie Ihr altes Kupfer",
+ "hero_kicker": "Ankauf, Container-Service & Beratung in ganz Berlin",
+ "hero_text": "Ob Elektroinstallation, Sanierung oder Kellerfund: Wir übernehmen den Kupfer-Ankauf in ganz Berlin – mit Container zum Selbstbeladen oder Selbstanlieferung in Reinickendorf.",
+ "hero_image": "geldschein.webp",
+ "breadcrumb": [
+  [
+   "Startseite",
+   "/"
+  ],
+  [
+   "Metall-Ankauf",
+   "/metall-ankauf/"
+  ],
+  [
+   "Kupfer-Ankauf Berlin",
+   "/kupfer-ankauf-berlin/"
+  ]
+ ],
+ "intro": "<p>Wenn Sie Ihr altes Kupfer in Berlin loswerden wollen, ist Peglow Schrott und Metallhandel e.K. Ihr Ansprechpartner: Wir übernehmen den Ankauf von Kupfer in ganz Berlin, beraten Sie kompetent bei der Abwicklung und vergüten nach tagesaktuellen Kursen. Sie können Ihr Kupfer direkt an unserem Schrottplatz in der Soltauer Straße 27-29 in Berlin-Reinickendorf abgeben oder einen Container zum Selbstbeladen vereinbaren – ein Anruf unter 030 43206315 genügt.</p>",
+ "sections": [
+  {
+   "heading": "In welchen Gegenständen steckt eigentlich Kupfer?",
+   "html": "<p>Von Kupfer haben viele zuletzt im Chemieunterricht gehört – dabei steckt das chemische Element mit dem Symbol Cu und der Ordnungszahl 29 in erstaunlich vielen Alltagsgegenständen. Dazu gehören Bauteile von Elektrogeräten, Münzen und Besteck, aber auch Kunstgegenstände und Musikinstrumente mit hohem Kupferanteil. Vor allem in der Elektroinstallation und in der Rohrtechnik kommt Kupfer massenhaft zum Einsatz, denn es ist ein herausragender Wärme- und Stromleiter und zählt zu den Halbedelmetallen. Bei fast jeder Sanierung oder Entrümpelung fallen deshalb Kupferteile an – und die sind bares Geld wert.</p>"
+  },
+  {
+   "heading": "Wie läuft der Kupfer-Ankauf in Berlin konkret ab?",
+   "html": "<ol><li><strong>Kontakt aufnehmen:</strong> Rufen Sie uns unter 030 43206315 an, schreiben Sie per WhatsApp an 0175 769 17 18 oder mailen Sie an info@schrott-berlin.de.</li><li><strong>Tagespreis erfragen:</strong> Wir nennen Ihnen den aktuellen Kurs für Ihre Kupfersorte und beraten Sie zur Einstufung.</li><li><strong>Anliefern oder Container bestellen:</strong> Bringen Sie das Kupfer selbst nach Reinickendorf oder lassen Sie sich einen Container zum Selbstbeladen bei sich vor Ort aufstellen.</li><li><strong>Verwiegen und kassieren:</strong> Ihr Material wird transparent gewogen, Sie erhalten Ihre Vergütung direkt.</li></ol>"
+  },
+  {
+   "heading": "Wo stellt Peglow den Container auf?",
+   "html": "<p>Unser Einzugsgebiet umfasst ganz Berlin – von Spandau bis Köpenick, von Pankow bis Zehlendorf – sowie das gesamte Berliner Umland. Gerade für Handwerksbetriebe, Elektriker und Sanierungsfirmen mit größeren Mengen lohnt sich der Container zum Selbstbeladen direkt auf der Baustelle oder auf dem Betriebshof. Alle Details zu unserem Liefergebiet finden Sie unter <a href=\"/einzugsgebiete/\">Einzugsgebiete</a>. Fällt bei Ihnen regelmäßig Metallschrott an, stellen wir Ihnen auch gern einen <a href=\"/container/\">Container</a> auf das Gelände.</p>"
+  },
+  {
+   "heading": "Welches Kupfer nehmen wir an?",
+   "html": "<p>Kurz gesagt: alles, was Kupfer ist. Blanken Draht bewerten wir als hochwertigen Millberry, gebrauchte Rohre, Dachrinnen und Bleche als <a href=\"/kupfer-raff/\">Kupfer-Raff</a>, ummantelte Leitungen als <a href=\"/kabel/\">Kabel</a>. Was welcher Sorte entspricht und worauf es beim Preis ankommt, erklärt ausführlich unser <a href=\"/kupfer/\">Kupfer-Ratgeber</a>. In der Altmetallverwertung spielt Kupfer eine zentrale Rolle, denn es lässt sich hervorragend weiterverarbeiten – Ihr altes Kupfer landet also nicht im Müll, sondern zurück im Rohstoffkreislauf.</p>"
+  }
+ ],
+ "checklist": [
+  "Kupfer-Ankauf in ganz Berlin und im gesamten Berliner Umland",
+  "Container zum Selbstbeladen möglich – auch direkt auf der Baustelle",
+  "Vergütung nach tagesaktuellen Kupferkursen",
+  "Kompetente Beratung bei der kompletten Abwicklung",
+  "Selbstanlieferung in Reinickendorf, Mo–Fr 8–17 Uhr",
+  "Zertifizierter Entsorgungsfachbetrieb gemäß §56 KrWG"
+ ],
+ "table": {
+  "caption": "Ihre Wege zum Kupfer-Verkauf bei Peglow in Berlin",
+  "head": [
+   "Option",
+   "Geeignet für",
+   "So funktioniert es"
+  ],
+  "rows": [
+   [
+    "Selbstanlieferung",
+    "Kleinere Mengen, Privatkunden",
+    "Kupfer zur Soltauer Straße 27-29 nach Reinickendorf bringen, Mo–Fr 8–17 Uhr"
+   ],
+   [
+    "Container zum Selbstbeladen",
+    "Größere Mengen, Baustellen, Gewerbe",
+    "Termin unter 030 43206315 vereinbaren, wir stellen den Container in ganz Berlin und im gesamten Berliner Umland auf"
+   ],
+   [
+    "Container",
+    "Regelmäßiger Anfall in Betrieben",
+    "Absetzcontainer wird gestellt und nach Befüllung abgeholt"
+   ]
+  ]
+ },
+ "faq": [
+  {
+   "q": "Wo kann ich in Berlin am besten Kupfer verkaufen?",
+   "a": "Bei Peglow Schrott und Metallhandel e.K. in der Soltauer Straße 27-29, 13509 Berlin-Reinickendorf. Wir kaufen Kupfer aller Sorten an, beraten Sie zur Einstufung und vergüten nach tagesaktuellen Kursen – Montag bis Freitag von 8 bis 17 Uhr."
+  },
+  {
+   "q": "Holt Peglow Kupfer auch bei mir zu Hause oder auf der Baustelle ab?",
+   "a": "Ja, wir stellen Ihnen einen Container zum Selbstbeladen in ganz Berlin und im gesamten Berliner Umland auf. Vereinbaren Sie einfach telefonisch unter 030 43206315 einen Termin – besonders bei größeren Mengen, etwa aus Sanierungen oder von Elektro-Baustellen, lohnt sich das."
+  },
+  {
+   "q": "Wie erfahre ich den aktuellen Kupferpreis in Berlin?",
+   "a": "Kupfer wird börsengehandelt, die Preise ändern sich täglich. Deshalb nennen wir Ihnen den aktuellen Ankaufspreis auf Anfrage: telefonisch unter 030 43206315, per WhatsApp an 0175 769 17 18 oder direkt vor Ort in Reinickendorf."
+  },
+  {
+   "q": "Kaufen Sie auch kleine Mengen Kupfer an?",
+   "a": "Ja, auch kleinere Mengen können Sie bei uns am Schrottplatz in der Soltauer Straße abgeben. Für den Container zum Selbstbeladen sprechen Sie uns am besten kurz an – wir sagen Ihnen ehrlich, ab welcher Menge sich eine Anfahrt lohnt und finden gemeinsam die passende Lösung."
+  },
+  {
+   "q": "Brauche ich einen Termin für die Kupfer-Anlieferung?",
+   "a": "Nein, für die Selbstanlieferung brauchen Sie keinen Termin. Kommen Sie einfach Montag bis Freitag zwischen 8 und 17 Uhr in die Soltauer Straße 27-29 nach Berlin-Reinickendorf. Nur für die Containeraufstellung vereinbaren wir vorab einen Termin."
+  }
+ ],
+ "service_schema": {
+  "name": "Kupfer-Ankauf Berlin mit Container-Service",
+  "serviceType": "Ankauf und Abholung von Kupferschrott",
+  "description": "Kupfer-Ankauf in ganz Berlin mit Container-Service und Selbstanlieferung, Vergütung nach tagesaktuellen Kursen."
+ },
+ "related": [
+  [
+   "Kupfer-Ratgeber",
+   "/kupfer/"
+  ],
+  [
+   "Kupfer-Raff-Ankauf",
+   "/kupfer-raff/"
+  ],
+  [
+   "Einzugsgebiete",
+   "/einzugsgebiete/"
+  ],
+  [
+   "Containerdienst",
+   "/container/"
+  ],
+  [
+   "Aktuelle Schrottpreise",
+   "/schrottpreise/"
+  ]
+ ],
+ "cta_heading": "Kupfer in Berlin verkaufen? Ein Anruf genügt!",
+ "cta_text": "Tagespreis erfragen, anliefern oder Container vereinbaren: 030 43206315 – oder per WhatsApp an 0175 769 17 18."
+}

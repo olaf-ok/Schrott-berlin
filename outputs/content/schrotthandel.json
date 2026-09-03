@@ -1,0 +1,129 @@
+{
+ "path": "/schrotthandel/",
+ "template": "landing",
+ "title": "Schrotthandel Berlin – Schrott Ankauf & Handel | Peglow",
+ "meta_description": "Berlin Schrotthandel seit über 20 Jahren: Peglow kauft Stahl-, Metall- und Mischschrott an, berät kompetent und vergütet fair. ☎ 030 43206315",
+ "h1": "Schrotthandel in Berlin – Ankauf, Beratung und Verwertung",
+ "hero_kicker": "Seit über 20 Jahren Schrotthandel in Berlin",
+ "hero_text": "Schrott ist nicht gleich Schrott: Wir kennen jede Sorte, beraten Sie ehrlich und kaufen Ihr Material zu fairen Konditionen an.",
+ "hero_image": "gebaeude311-z.webp",
+ "breadcrumb": [
+  [
+   "Startseite",
+   "/"
+  ],
+  [
+   "Schrotthandel",
+   "/schrotthandel/"
+  ]
+ ],
+ "intro": "<p>Peglow Schrott und Metallhandel e.K. betreibt seit über 20 Jahren Schrotthandel in Berlin – als umfassenden Service mit Ankauf, kompetenter Beratung und fachgerechter Verwertung. Auf unserem Schrottplatz in der Soltauer Straße 27-29 in Berlin-Reinickendorf nehmen wir eine Vielzahl von Schrott- und Metallsorten entgegen: von Stahlschrott über Buntmetalle bis Mischschrott. Bei uns landen Sie nicht auf einem anonymen Entsorgungsplatz – freundliche Beratung und ein ehrlicher Umgang sind hier selbstverständlich.</p>",
+ "sections": [
+  {
+   "heading": "Was steckt hinter dem Schrotthandel in Berlin?",
+   "html": "<p>Wer hätte gedacht, dass Schrott eine Wissenschaft für sich ist? Denn Schrott ist nicht gleich Schrott: Wer Schrott entsorgen will, sollte wissen, dass es verschiedene Kategorien gibt. Die drei Oberkategorien sind Stahlschrott, Altmetallschrott und Elektroschrott – und wir alle benutzen täglich Dinge, die in eine dieser Kategorien fallen. Ein guter Schrotthandel bestimmt Ihr Material fachkundig und sorgt dafür, dass Sie die passende Vergütung erhalten.</p>"
+  },
+  {
+   "heading": "Welche Schrottsorten unterscheidet der Schrotthandel?",
+   "html": "<p>Jede Schrottsorte hat diverse Unterkategorien – entscheidend ist die genaue Zusammensetzung der Metalle und ob sie mit anderen Materialien vermischt sind (<a href=\"/mischschrott/\">Mischschrott</a>). Typische Unterkategorien, die wir ankaufen:</p><ul><li><a href=\"/zink/\">Zinkschrott</a> und <a href=\"/blei/\">Bleischrott</a></li><li><a href=\"/messing-schrott/\">Messingschrott</a></li><li><a href=\"/aluminium/\">Aluminiumschrott</a></li><li><a href=\"/kupfer/\">Kupferschrott</a> und <a href=\"/kabel-schrott/\">Kabelschrott</a></li><li><a href=\"/eisen-schrott/\">Eisenschrott</a>, <a href=\"/guss/\">Guss</a> und <a href=\"/brennerschrott/\">Brennerschrott</a></li></ul><p>Je sortenreiner Ihr Schrott, desto besser die Vergütung – wir beraten Sie gern bei der Einordnung.</p>"
+  },
+  {
+   "heading": "Warum lohnt sich ein Schrotthandel statt der Entsorgung?",
+   "html": "<p>Wer einen alten Gegenstand mit Metallanteil in Berlin loswerden möchte, ist mit einem Berliner Schrotthandel gut beraten, der viele Schrott- und Metallsorten annimmt und kompetent berät. Der Vorteil gegenüber der reinen Entsorgung: Ihr Schrott hat einen Wert, den wir Ihnen nach tagesaktuellen Preisen vergüten. Einen Überblick gibt unsere Seite <a href=\"/schrottpreise/\">Schrottpreise Berlin</a>; den Ablauf des Ankaufs erklärt die Seite <a href=\"/schrott-ankauf/\">Schrott Ankauf</a>.</p>"
+  },
+  {
+   "heading": "So geht Schrotthandel in Berlin: persönlich und unkompliziert",
+   "html": "<p>Bei Peglow Schrott und Metall haben Sie sicher nicht das Gefühl, auf einem anonymen Entsorgungsplatz gelandet zu sein – nette Gespräche und ehrliche Beratung gehören bei uns dazu. Schauen Sie einfach vorbei: Soltauer Straße 27-29, 13509 Berlin-Reinickendorf, Mo–Fr 8–17 Uhr (<a href=\"/anfahrt/\">Anfahrt</a>). Größere Mengen? Wir stellen Ihnen einen <a href=\"/container/\">Container von 5 bis 30 m³</a> direkt vor Ort auf. Als geprüfter Entsorgungsfachbetrieb gemäß §56 KrWG garantieren wir die umweltgerechte Verwertung.</p>"
+  }
+ ],
+ "checklist": [
+  "Über 20 Jahre Erfahrung im Berliner Schrotthandel",
+  "Ankauf vieler Schrott- und Metallsorten",
+  "Kompetente Materialbestimmung und Beratung",
+  "Vergütung nach tagesaktuellen Preisen",
+  "Container zum Selbstbeladen (5–30 m³) in ganz Berlin",
+  "Geprüfter Entsorgungsfachbetrieb (§56 KrWG)"
+ ],
+ "table": {
+  "caption": "Schrottkategorien im Überblick",
+  "head": [
+   "Kategorie",
+   "Typische Beispiele",
+   "Ankauf bei Peglow"
+  ],
+  "rows": [
+   [
+    "Stahl-/Eisenschrott",
+    "Träger, Rohre, Moniereisen, Guss",
+    "ja"
+   ],
+   [
+    "Buntmetalle (NE-Metalle)",
+    "Kupfer, Messing, Zink, Blei, Aluminium",
+    "ja"
+   ],
+   [
+    "Edelstahl",
+    "Spülen, Geländer, Behälter",
+    "ja"
+   ],
+   [
+    "Kabel",
+    "Stromkabel, Leitungsreste",
+    "ja"
+   ],
+   [
+    "Mischschrott",
+    "gemischte Metallteile mit Anhaftungen",
+    "ja"
+   ]
+  ]
+ },
+ "faq": [
+  {
+   "q": "Was macht ein Schrotthandel eigentlich?",
+   "a": "Ein Schrotthandel kauft Schrott und Altmetalle an, sortiert und bestimmt das Material fachkundig und führt es dem Recycling zu. Bei Peglow in Berlin-Reinickendorf bekommen Sie dafür eine Vergütung nach tagesaktuellen Preisen – Schrott ist also kein Abfall, sondern Wertstoff."
+  },
+  {
+   "q": "Welche Schrottarten gibt es?",
+   "a": "Grob unterscheidet man Stahlschrott, Altmetallschrott und Elektroschrott. Darunter gibt es viele Unterkategorien wie Zink-, Messing-, Blei-, Aluminium- oder Kupferschrott – und Mischschrott, wenn Metalle vermischt oder mit anderen Materialien verbunden sind."
+  },
+  {
+   "q": "Warum werden Schrottsorten unterschiedlich vergütet?",
+   "a": "Der Wert hängt von der Metallsorte und der Reinheit ab: Sortenreines Kupfer erzielt deutlich mehr als Mischschrott, weil es direkt wiederverwertet werden kann. Wir bestimmen Ihr Material vor Ort, wiegen präzise und rechnen transparent nach Tagespreis ab."
+  },
+  {
+   "q": "Was passiert mit meinem Schrott nach dem Ankauf?",
+   "a": "Ihr Schrott wird bei uns sortiert und der fachgerechten Wiederverwertung zugeführt. Als geprüfter Entsorgungsfachbetrieb gemäß §56 KrWG (zertifiziert durch oecontrol) stellen wir sicher, dass die Verwertung umweltgerecht und vorschriftsmäßig abläuft."
+  }
+ ],
+ "service_schema": {
+  "name": "Schrotthandel Berlin",
+  "serviceType": "Ankauf und Handel von Schrott und Altmetall",
+  "description": "Schrotthandel in Berlin mit Ankauf, Beratung und umweltgerechter Verwertung aller gängigen Schrott- und Metallsorten – seit über 20 Jahren."
+ },
+ "related": [
+  [
+   "Schrott Ankauf Berlin",
+   "/schrott-ankauf/"
+  ],
+  [
+   "Metallhandel Berlin",
+   "/metallhandel-berlin/"
+  ],
+  [
+   "Aktuelle Schrottpreise",
+   "/schrottpreise/"
+  ],
+  [
+   "Schrott richtig verkaufen",
+   "/schrott-verkaufen/"
+  ],
+  [
+   "Containerdienst",
+   "/container/"
+  ]
+ ],
+ "cta_heading": "Schrott loswerden? So geht Schrotthandel in Berlin.",
+ "cta_text": "Kommen Sie vorbei oder rufen Sie an – wir beraten Sie ehrlich und unkompliziert: 030 43206315, Mo–Fr 8:00–17:00 Uhr."
+}

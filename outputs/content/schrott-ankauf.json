@@ -1,0 +1,138 @@
+{
+ "path": "/schrott-ankauf/",
+ "template": "landing",
+ "title": "Schrott Ankauf Berlin – Tageshöchstpreise | Peglow",
+ "meta_description": "Schrott Ankauf in Berlin: Peglow kauft Brennerschrott, Moniereisen, Mischschrott, Schienen & Guss – gewogen, fair, bar bezahlt. ☎ 030 43206315",
+ "h1": "Schrott Ankauf in Berlin – wir kaufen Ihren Schrott zu Tageshöchstpreisen",
+ "hero_kicker": "Schrottplatz Berlin-Reinickendorf",
+ "hero_text": "Vom Moniereisen bis zum Mischschrott: Bei uns wird Ihr Schrott präzise gewogen, fair berechnet und direkt vergütet.",
+ "hero_image": "schrott_guss.webp",
+ "breadcrumb": [
+  [
+   "Startseite",
+   "/"
+  ],
+  [
+   "Schrott Ankauf",
+   "/schrott-ankauf/"
+  ]
+ ],
+ "intro": "<p>Der Schrott Ankauf in Berlin von Peglow Schrott und Metallhandel e.K. nimmt Ihnen alle gängigen Schrottsorten ab: Brennerschrott, Moniereisen, Bremsscheiben, Mischschrott, Schienen und Guss. Auf unserem Schrottplatz in der Soltauer Straße 27-29 in Berlin-Reinickendorf wird Ihr Material präzise gewogen und zum Tageshöchstpreis vergütet – ob Sie als Privatperson eine Kofferraumladung bringen oder als Betrieb tonnenweise anliefern. Geöffnet Mo–Fr von 8 bis 17 Uhr.</p>",
+ "sections": [
+  {
+   "heading": "Welche Schrottsorten kaufen wir an?",
+   "html": "<p>Hier finden Sie eine Übersicht über die Schrottsorten, die wir gerne von Ihnen abnehmen:</p><ul><li><a href=\"/brennerschrott/\">Brennerschrott</a> – dickwandiger Stahlschrott zum Brennschneiden</li><li><a href=\"/moniereisen/\">Moniereisen</a> – Bewehrungsstahl von Baustellen</li><li><a href=\"/bremsscheiben/\">Bremsscheiben</a> – aus Werkstatt und Kfz-Bereich</li><li><a href=\"/mischschrott/\">Mischschrott</a> – gemischte Metallteile aller Art</li><li><a href=\"/schienen/\">Schienen</a> – Bahn- und Kranschienen</li><li><a href=\"/guss/\">Guss</a> – Gussteile, Heizkörper, Maschinengehäuse</li></ul><p>Buntmetalle wie Kupfer, Messing oder Aluminium finden Sie in der Übersicht <a href=\"/metall-ankauf/\">Metall-Ankauf</a>.</p>"
+  },
+  {
+   "heading": "Wie läuft der Schrott Ankauf in Berlin ab?",
+   "html": "<ol><li><strong>Anliefern:</strong> Sie bringen Ihren Schrott zur Soltauer Straße 27-29 – die <a href=\"/anfahrt/\">Anfahrt</a> ist einfach, kurze Wartezeiten inklusive.</li><li><strong>Materialbestimmung:</strong> Unser Team ordnet Ihren Schrott fachkundig der richtigen Sorte zu.</li><li><strong>Wiegen:</strong> Präzise und gern in Ihrem Beisein.</li><li><strong>Vergütung:</strong> Berechnung nach Tageshöchstpreis, Barauszahlung direkt vor Ort.</li></ol><p>Für größere Mengen ab etwa 5 m³ empfiehlt sich unser <a href=\"/container/\">Containerservice</a> – wir stellen und holen ab.</p>"
+  },
+  {
+   "heading": "Was bestimmt den Preis beim Schrott Ankauf?",
+   "html": "<p>Drei Faktoren entscheiden: die Schrottsorte, die Reinheit des Materials und der tagesaktuelle Marktkurs. Sortenreiner Schrott wird besser vergütet als vermischter; die Kurse orientieren sich an den Metallbörsen und ändern sich täglich. Deshalb nennen wir keine Pauschalpreise, sondern kaufen konsequent zu Tageshöchstpreisen. Einen Überblick zur Preisbildung gibt die Seite <a href=\"/schrottpreise/\">Schrottpreise Berlin</a> – oder Sie rufen kurz an: 030 43206315.</p>"
+  },
+  {
+   "heading": "Schrott Ankauf für Privat und Gewerbe – in ganz Berlin",
+   "html": "<p>Privatkunden bringen Kellerfunde, alte Heizkörper oder Fahrradrahmen einfach vorbei. Betriebe, Werkstätten und Baustellen beliefern wir mit Containern und holen regelmäßig ab – im gesamten Stadtgebiet, im gesamten Berliner Umland (<a href=\"/einzugsgebiete/\">alle Einzugsgebiete</a>). Als geprüfter Entsorgungsfachbetrieb gemäß §56 KrWG stellen wir die umweltgerechte Verwertung Ihres Schrotts sicher. Mehr über unseren Betrieb erfahren Sie unter <a href=\"/uber-uns/\">Über uns</a>.</p>"
+  }
+ ],
+ "checklist": [
+  "Alle gängigen Schrottsorten in einer Hand",
+  "Tageshöchstpreise statt Pauschalen",
+  "Präzises Wiegen in Ihrem Beisein",
+  "Barauszahlung direkt vor Ort",
+  "Container zum Selbstbeladen (5–30 m³) für große Mengen",
+  "Geprüfter Entsorgungsfachbetrieb (§56 KrWG)"
+ ],
+ "table": {
+  "caption": "Schrottsorten im Ankauf",
+  "head": [
+   "Sorte",
+   "Typische Herkunft",
+   "Preis"
+  ],
+  "rows": [
+   [
+    "Brennerschrott",
+    "Stahlbau, Abbruch, dickwandige Teile",
+    "tagesaktuell auf Anfrage"
+   ],
+   [
+    "Moniereisen",
+    "Baustellen, Bewehrungsstahl",
+    "tagesaktuell auf Anfrage"
+   ],
+   [
+    "Bremsscheiben",
+    "Kfz-Werkstätten",
+    "tagesaktuell auf Anfrage"
+   ],
+   [
+    "Mischschrott",
+    "Haushalt, Entrümpelung, Werkstatt",
+    "tagesaktuell auf Anfrage"
+   ],
+   [
+    "Schienen",
+    "Bahn- und Krananlagen",
+    "tagesaktuell auf Anfrage"
+   ],
+   [
+    "Guss",
+    "Heizkörper, Maschinenteile",
+    "tagesaktuell auf Anfrage"
+   ]
+  ]
+ },
+ "faq": [
+  {
+   "q": "Was kostet der Schrott Ankauf in Berlin – oder bekomme ich Geld?",
+   "a": "Sie bekommen Geld: Beim Schrott Ankauf kaufen wir Ihnen Ihr Material ab und zahlen nach dem Wiegen bar aus. Die Höhe richtet sich nach Sorte, Gewicht und Tageskurs – konkrete Preise erfragen Sie unter 030 43206315."
+  },
+  {
+   "q": "Welchen Schrott kauft Peglow in Berlin an?",
+   "a": "Brennerschrott, Moniereisen, Bremsscheiben, Mischschrott, Schienen und Guss – außerdem alle gängigen Metalle wie Kupfer, Messing, Aluminium, Zink, Blei, Edelstahl, Eisenschrott und Kabel. Wenn Sie unsicher sind: einfach mitbringen, wir bestimmen das Material vor Ort."
+  },
+  {
+   "q": "Holt Peglow Schrott auch ab?",
+   "a": "Ja, bei größeren Mengen stellen wir Ihnen einen Container zum Selbstbeladen in ganz Berlin und im gesamten Berliner Umland auf. Ab etwa 5 m³ bieten wir Absetzcontainer, Mulden und Abrollcontainer bis 30 m³ – ideal für Baustellen und Betriebe."
+  },
+  {
+   "q": "Muss ich meinen Schrott vor dem Ankauf sortieren?",
+   "a": "Nein, wir nehmen auch unsortierten Mischschrott an. Sortenrein getrennter Schrott wird allerdings besser vergütet, weil er direkt verwertet werden kann. Grobes Vortrennen lohnt sich also, ist aber keine Pflicht."
+  },
+  {
+   "q": "Wo und wann kann ich Schrott in Berlin anliefern?",
+   "a": "Auf unserem Schrottplatz in der Soltauer Straße 27-29, 13509 Berlin-Reinickendorf – Montag bis Freitag von 8:00 bis 17:00 Uhr. Nach kurzer Wartezeit wird Ihr Schrott gewogen und direkt bar vergütet."
+  }
+ ],
+ "service_schema": {
+  "name": "Schrott Ankauf Berlin",
+  "serviceType": "Ankauf von Schrott",
+  "description": "Schrott Ankauf in Berlin zu Tageshöchstpreisen: Brennerschrott, Moniereisen, Bremsscheiben, Mischschrott, Schienen und Guss – mit Barauszahlung."
+ },
+ "related": [
+  [
+   "Metall-Ankauf: alle Sorten",
+   "/metall-ankauf/"
+  ],
+  [
+   "Aktuelle Schrottpreise",
+   "/schrottpreise/"
+  ],
+  [
+   "Schrott richtig verkaufen",
+   "/schrott-verkaufen/"
+  ],
+  [
+   "Containerdienst",
+   "/container/"
+  ],
+  [
+   "Schrotthandel Berlin",
+   "/schrotthandel/"
+  ]
+ ],
+ "cta_heading": "Schrott zu verkaufen? Wir kaufen an – heute noch!",
+ "cta_text": "Vorbeikommen und bar kassieren: Soltauer Straße 27-29, Mo–Fr 8:00–17:00 Uhr. Oder einen Container vereinbaren: 030 43206315."
+}

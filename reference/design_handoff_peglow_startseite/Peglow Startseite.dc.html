@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet data-dc-atomics>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@600;700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+<script src="./image-slot.js"></script>
+<style>body{margin:0;background:#fff;font-family:Roboto,system-ui,sans-serif;color:#3A3A40}a{color:#B30061}a:hover{color:#E2007A}details>summary{list-style:none;cursor:pointer}details>summary::-webkit-details-marker{display:none}::selection{background:#E2007A;color:#fff}
+@keyframes plq-in{from{transform:rotate(-14deg) scale(1.15);opacity:0}to{transform:rotate(-7deg) scale(1);opacity:1}}</style>
+</helmet>
+<div data-screen-label="Startseite" style="max-width:1360px;margin:0 auto;background:#fff">
+<header style="display:flex;align-items:center;gap:28px;padding:14px 32px;border-bottom:1px solid #DEDEE3">
+  <image-slot id="logo" mask="inset(0)" fit="contain" placeholder="LOGO_neu-Out-line.png (Kroko)" style="width:176px;height:66px;flex:none"></image-slot>
+  <nav style="display:flex;gap:26px;margin-left:auto;font-weight:500;font-size:15.5px">
+    <a href="#ankauf" style="color:#131316;text-decoration:none">Ankauf</a>
+    <a href="#container" style="color:#131316;text-decoration:none">Container</a>
+    <a href="#" style="color:#131316;text-decoration:none">Bezirke</a>
+    <a href="#kontakt" style="color:#131316;text-decoration:none">Kontakt</a>
+  </nav>
+  <a href="tel:03043206315" style="background:#E2007A;color:#fff;text-decoration:none;font-weight:700;font-size:16px;padding:12px 22px;border-radius:10px;white-space:nowrap" style-hover="background:#B30061">☎ 030 - 43 20 63 15</a>
+</header>
+
+<section style="position:relative;height:560px;margin:20px 24px 0;border-radius:12px;overflow:hidden">
+  <div style="position:absolute;inset:0"><image-slot id="hero" mask="inset(0)" placeholder="Betriebsfoto: Bagger/Schrottschere in Aktion — hell, satt, warmes Licht"></image-slot></div>
+  <div style="position:absolute;left:0;top:0;bottom:0;width:58%;background:linear-gradient(90deg,rgba(19,19,22,.87) 30%,rgba(19,19,22,.55) 65%,transparent);display:flex;flex-direction:column;justify-content:center;gap:18px;padding:0 56px;pointer-events:none">
+    <div style="font-size:13px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#fff">Schrottplatz · Berlin-Reinickendorf · seit über 20 Jahren</div>
+    <h1 style="font-family:'Roboto Slab',serif;font-weight:700;font-size:66px;line-height:1;letter-spacing:-.01em;color:#fff;margin:0">SCHROTT BRINGT<br><span style="color:#E2007A">BARES GELD.</span></h1>
+    <p style="font-size:19px;line-height:1.5;color:#F2F2F4;margin:0;max-width:480px">Metall-Ankauf, Containerdienst und Anlieferung auf die Waage — Barauszahlung direkt vor Ort.</p>
+    <div style="display:flex;gap:14px;pointer-events:auto">
+      <a href="tel:03043206315" style="background:#E2007A;color:#fff;text-decoration:none;font-weight:700;font-size:18px;padding:16px 28px;border-radius:10px" style-hover="background:#B30061">☎ Jetzt Preis erfragen</a>
+      <a href="#kontakt" style="border:2px solid #fff;color:#fff;text-decoration:none;font-weight:700;font-size:18px;padding:14px 26px;border-radius:10px" style-hover="background:rgba(255,255,255,.14)">Anfahrt &amp; Waage</a>
+    </div>
+  </div>
+  <div style="position:absolute;right:34px;bottom:30px;width:118px;height:118px;border:3px solid #fff;border-radius:50%;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;color:#fff;background:rgba(19,19,22,.42);font-family:'Roboto Slab',serif;font-weight:600;font-size:13px;line-height:1.3;letter-spacing:.05em;text-transform:uppercase;animation:plq-in .5s ease-out both;pointer-events:none">Geprüfter<br>Entsorgungs-<br>fachbetrieb<br><span style="color:#E2007A;font-size:15px">§56 KrWG</span></div>
+</section>
+
+<section style="display:flex;gap:16px;padding:56px 24px 0">
+  <div style="flex:1;text-align:center;background:#F2F2F4;border-radius:12px;padding:22px 12px" style-hover="background:#E8E8EC"><div style="font-family:'Roboto Slab',serif;font-weight:700;font-size:46px;color:#E2007A;line-height:1">20+</div><div style="font-size:15px;margin-top:4px">Jahre Familienbetrieb</div></div>
+  <div style="flex:1;text-align:center;background:#F2F2F4;border-radius:12px;padding:22px 12px" style-hover="background:#E8E8EC"><div style="font-family:'Roboto Slab',serif;font-weight:700;font-size:46px;color:#E2007A;line-height:1">3–30 m³</div><div style="font-size:15px;margin-top:4px">Containergrößen</div></div>
+  <div style="flex:1;text-align:center;background:#F2F2F4;border-radius:12px;padding:22px 12px" style-hover="background:#E8E8EC"><div style="font-family:'Roboto Slab',serif;font-weight:700;font-size:46px;color:#E2007A;line-height:1">Mo–Fr 8–17</div><div style="font-size:15px;margin-top:4px">Uhr — Waage geöffnet</div></div>
+</section>
+
+<section id="ankauf" style="padding:92px 24px 0">
+  <div style="font-size:12.5px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#E2007A">Metall-Ankauf · Tagespreis am Telefon</div>
+  <h2 style="font-family:'Roboto Slab',serif;font-weight:700;font-size:38px;color:#131316;margin:4px 0 20px">Das kaufen wir <span style="background:linear-gradient(transparent 62%,rgba(226,0,122,.45) 62%)">an.</span></h2>
+  <div style="display:grid;grid-template-columns:repeat(6,1fr);gap:14px">
+    <sc-for list="{{ materials }}" as="m" hint-placeholder-count="6">
+      <a href="#" style="border:1px solid #DEDEE3;border-radius:12px;padding:10px;text-align:center;background:#fff;text-decoration:none;color:#131316;display:block" style-hover="border-color:#E2007A;background:#FDF2F8">
+        <div style="height:110px;margin-bottom:10px"><image-slot id="{{ m.slot }}" mask="inset(0 round 8px)" placeholder="{{ m.ph }}"></image-slot></div>
+        <div style="font-family:'Roboto Slab',serif;font-weight:600;font-size:18px">{{ m.name }}</div>
+        <div style="font-size:13px;color:#B30061;font-weight:700;margin-top:2px">☎ Tagespreis</div>
+      </a>
+    </sc-for>
+  </div>
+</section>
+
+<sc-if value="{{ warnstreifen }}" hint-placeholder-val="{{ true }}">
+  <div style="height:10px;margin:84px 24px 0;background:repeating-linear-gradient(-45deg,#131316 0 14px,#E2007A 14px 28px);border-radius:5px"></div>
+</sc-if>
+
+<section id="container" style="display:flex;gap:32px;padding:84px 24px;align-items:stretch">
+  <div style="flex:1;min-height:300px;border-radius:12px;overflow:hidden"><image-slot id="container-foto" mask="inset(0 round 12px)" placeholder="Foto: LKW setzt Absetzcontainer ab"></image-slot></div>
+  <div style="flex:1.15;display:flex;flex-direction:column;justify-content:center;gap:12px">
+    <div style="font-size:12.5px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#E2007A">Containerdienst</div>
+    <h2 style="font-family:'Roboto Slab',serif;font-weight:700;font-size:38px;color:#131316;margin:0">Container von <span style="color:#E2007A">3 bis 30 m³</span> — Stellung &amp; Abholung.</h2>
+    <ul style="list-style:none;margin:0;padding:0;font-size:17px;line-height:2.1">
+      <li><b style="color:#E2007A;font-size:20px">✔</b>&ensp;Bauschutt, Mischschrott und Metall</li>
+      <li><b style="color:#E2007A;font-size:20px">✔</b>&ensp;Kurzfristige Stellung in ganz Berlin</li>
+      <li><b style="color:#E2007A;font-size:20px">✔</b>&ensp;Faire Abrechnung nach Gewicht</li>
+    </ul>
+    <a href="tel:03043206315" style="align-self:flex-start;background:#E2007A;color:#fff;text-decoration:none;font-weight:700;font-size:17px;padding:14px 26px;border-radius:10px" style-hover="background:#B30061">☎ Container anfragen</a>
+  </div>
+</section>
+
+<section id="kontakt" style="display:flex;gap:32px;padding:16px 24px 100px">
+  <div style="flex:1.2">
+    <h2 style="font-family:'Roboto Slab',serif;font-weight:700;font-size:30px;color:#131316;margin:0 0 10px">Häufige Fragen</h2>
+    <sc-for list="{{ faqs }}" as="f" hint-placeholder-count="3">
+      <details style="border-bottom:1px solid #DEDEE3">
+        <summary style="display:flex;justify-content:space-between;align-items:center;gap:12px;padding:14px 2px;font-weight:500;font-size:17px;color:#131316" style-hover="color:#B30061"><span>{{ f.q }}</span><span style="color:#E2007A;font-weight:700;font-size:22px;flex:none">+</span></summary>
+        <p style="margin:0;padding:0 2px 16px;font-size:15.5px;line-height:1.6">{{ f.a }}</p>
+      </details>
+    </sc-for>
+  </div>
+  <div style="flex:1;background:#F2F2F4;border:1px solid #DEDEE3;border-radius:12px;padding:26px;align-self:flex-start">
+    <div style="font-size:12.5px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#E2007A">Anfahrt &amp; Öffnungszeiten</div>
+    <div style="font-family:'Roboto Slab',serif;font-weight:700;font-size:24px;color:#131316;margin:6px 0 12px">Peglow Schrott und Metallhandel e.K.</div>
+    <div style="font-size:16.5px;line-height:1.9">Soltauer Straße 27-29<br>13509 Berlin (Reinickendorf)<br>☎ <a href="tel:03043206315" style="font-weight:700">030 43206315</a><br>Mo–Fr <b>8–17 Uhr</b></div>
+    <div style="margin-top:14px;height:150px;border-radius:8px;overflow:hidden"><image-slot id="anfahrt" mask="inset(0 round 8px)" placeholder="Foto: Gebäude mit Peglow-Graffiti / Anfahrtsskizze (kein Google Maps — DSGVO)"></image-slot></div>
+  </div>
+</section>
+
+<footer style="position:relative;background:#131316;color:#fff;border-radius:16px 16px 0 0;padding:40px 40px 22px;overflow:hidden">
+  <sc-if value="{{ grain }}" hint-placeholder-val="{{ true }}">
+    <div style="position:absolute;inset:0;background-image:radial-gradient(rgba(255,255,255,.055) 1px,transparent 1px);background-size:6px 6px;pointer-events:none"></div>
+  </sc-if>
+  <div style="position:relative;display:grid;grid-template-columns:repeat(4,1fr);gap:28px;font-size:14.5px;line-height:2">
+    <div><div style="font-family:'Roboto Slab',serif;font-weight:600;font-size:17px;margin-bottom:6px">Materialien</div><a href="#" style="color:#C8C8CE;text-decoration:none;display:block" style-hover="color:#fff">Kupfer</a><a href="#" style="color:#C8C8CE;text-decoration:none;display:block" style-hover="color:#fff">Messing</a><a href="#" style="color:#C8C8CE;text-decoration:none;display:block" style-hover="color:#fff">Zink &amp; Aluminium</a><a href="#" style="color:#C8C8CE;text-decoration:none;display:block" style-hover="color:#fff">Kabel &amp; Elektroschrott</a></div>
+    <div><div style="font-family:'Roboto Slab',serif;font-weight:600;font-size:17px;margin-bottom:6px">Bezirke</div><a href="#" style="color:#C8C8CE;text-decoration:none;display:block" style-hover="color:#fff">Reinickendorf</a><a href="#" style="color:#C8C8CE;text-decoration:none;display:block" style-hover="color:#fff">Pankow</a><a href="#" style="color:#C8C8CE;text-decoration:none;display:block" style-hover="color:#fff">Spandau</a><a href="#" style="color:#C8C8CE;text-decoration:none;display:block" style-hover="color:#fff">Mitte</a></div>
+    <div><div style="font-family:'Roboto Slab',serif;font-weight:600;font-size:17px;margin-bottom:6px">Service</div><a href="#" style="color:#C8C8CE;text-decoration:none;display:block" style-hover="color:#fff">Containerdienst</a><a href="#" style="color:#C8C8CE;text-decoration:none;display:block" style-hover="color:#fff">Abholung</a><a href="#" style="color:#C8C8CE;text-decoration:none;display:block" style-hover="color:#fff">Anlieferung &amp; Waage</a></div>
+    <div><div style="font-family:'Roboto Slab',serif;font-weight:600;font-size:17px;margin-bottom:6px">Kontakt</div><div style="color:#C8C8CE">Soltauer Straße 27-29<br>13509 Berlin<br>☎ 030 43206315<br>Mo–Fr 8–17 Uhr</div></div>
+  </div>
+  <div style="position:relative;display:flex;align-items:center;gap:14px;border-top:1px solid #38383F;margin-top:28px;padding-top:16px;font-size:13px;color:#9a9aa2">
+    <span>© 2026 Peglow Schrott und Metallhandel e.K. — Wir gehören zum alten Eisen.</span>
+    <span style="margin-left:auto;display:flex;gap:16px"><a href="#" style="color:#9a9aa2;text-decoration:none" style-hover="color:#fff">Impressum</a><a href="#" style="color:#9a9aa2;text-decoration:none" style-hover="color:#fff">Datenschutz</a></span>
+  </div>
+</footer>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{&quot;warnstreifen&quot;:{&quot;editor&quot;:&quot;boolean&quot;,&quot;default&quot;:true,&quot;tsType&quot;:&quot;boolean&quot;,&quot;section&quot;:&quot;Stil&quot;},&quot;grain&quot;:{&quot;editor&quot;:&quot;boolean&quot;,&quot;default&quot;:true,&quot;tsType&quot;:&quot;boolean&quot;,&quot;section&quot;:&quot;Stil&quot;}}">
+class Component extends DCLogic {
+  renderVals() {
+    return {
+      warnstreifen: this.props.warnstreifen ?? true,
+      grain: this.props.grain ?? true,
+      materials: [
+        { name: "Kupfer", slot: "mat-kupfer", ph: "Nahaufnahme Kupfer" },
+        { name: "Messing", slot: "mat-messing", ph: "Nahaufnahme Messing" },
+        { name: "Zink", slot: "mat-zink", ph: "Nahaufnahme Zink" },
+        { name: "Aluminium", slot: "mat-alu", ph: "Nahaufnahme Aluminium" },
+        { name: "Kabel", slot: "mat-kabel", ph: "Nahaufnahme Kabel" },
+        { name: "Edelstahl", slot: "mat-edelstahl", ph: "Nahaufnahme Edelstahl" }
+      ],
+      faqs: [
+        { q: "Was zahlt ihr für Kupfer, Messing & Co.?", a: "Die Preise richten sich nach den tagesaktuellen Metallkursen. Rufen Sie kurz an — wir nennen Ihnen sofort den Tagespreis für Ihr Material." },
+        { q: "Holt ihr Schrott auch ab?", a: "Für größere Mengen stellen wir Container von 3 bis 30 m³ und holen sie nach Absprache wieder ab. Details klären wir am Telefon." },
+        { q: "Was darf in den Container?", a: "Bauschutt, Mischschrott und Metalle. Was im Einzelfall passt, sagen wir Ihnen bei der Bestellung — ehrlich und direkt." },
+        { q: "Brauche ich einen Termin für die Waage?", a: "Nein. Kommen Sie Mo–Fr zwischen 8 und 17 Uhr einfach vorbei — Soltauer Straße 27-29, 13509 Berlin." }
+      ]
+    };
+  }
+}
+</script>
+</body>
+</html>

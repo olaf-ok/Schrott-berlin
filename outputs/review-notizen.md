@@ -1,0 +1,2 @@
+- Review-Punkt: Hero-Bilder prüfen/tauschen auf kupfer-ankauf-berlin, messing-schrott, zink-ankauf-berlin, blei-ankauf, kabel-schrott, metall-schrott (nur generisches aged-brown-chain vorhanden) — ggf. passendes Materialbild aus assets/ verwenden
+- Annahme-Log: CTI-Credit im Impressum entfernt; (c) 2019->2026; Akkord-Film-Fehler in Datenschutz 1:1 belassen (offener Punkt Anwalt); E-Mail-Schreibweise vereinheitlicht; Zink/Messing- und Blei/Kupfer-Fehler im Original korrigiert

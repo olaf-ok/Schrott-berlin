@@ -1,0 +1,127 @@
+{
+ "path": "/schrott-verkaufen/",
+ "template": "landing",
+ "title": "Schrott & Altmetall verkaufen in Berlin | Peglow",
+ "meta_description": "Schrott verkaufen leicht gemacht: sortieren, wiegen lassen, Tageshöchstpreis kassieren. Peglow in Berlin-Reinickendorf zeigt wie. ☎ 030 43206315",
+ "h1": "Schrott und Altmetall verkaufen in Berlin – so geht es richtig",
+ "hero_kicker": "Ratgeber vom Schrottplatz Berlin-Reinickendorf",
+ "hero_text": "Schrott-Verkauf ist einfacher, als viele denken: Wer ein paar Grundregeln kennt, bekommt mehr Geld für sein Altmetall – und tut ganz nebenbei etwas für die Umwelt.",
+ "hero_image": "aktuelle-schrottpreise-berlin.webp",
+ "breadcrumb": [
+  [
+   "Startseite",
+   "/"
+  ],
+  [
+   "Schrotthandel",
+   "/schrotthandel/"
+  ],
+  [
+   "Schrott verkaufen",
+   "/schrott-verkaufen/"
+  ]
+ ],
+ "intro": "<p>Schrott verkaufen in Berlin ist leicht gemacht: Sie besuchen einen Schrottplatz, der viele Schrott- und Metallsorten annimmt, geben Ihr Altmetall ab – und bekommen Geld dafür. Bei Peglow Schrott und Metallhandel e.K. in Berlin-Reinickendorf (Soltauer Straße 27-29) läuft der Schrott-Verkauf kompetent und seriös ab: Ihr Schrott wird zu Tageshöchstpreisen angekauft, Sie werden schnell bedient und müssen nicht lange anstehen. Hier erfahren Sie, wie Sie beim Verkauf das Beste herausholen.</p>",
+ "sections": [
+  {
+   "heading": "Warum lohnt es sich, Schrott zu verkaufen statt zu entsorgen?",
+   "html": "<p>Wenn Sie Altmetall besitzen – egal in welcher Menge –, macht es immer Sinn, es zu recyceln. Metalle lassen sich hervorragend wiederverwerten: Das spart Kosten und schont vor allem unsere Umwelt, für die wir alle Verantwortung tragen. Und anders als oft vermutet, kostet das weder Zeit noch Nerven. Der Schrott-Verkauf hat gleich zwei Vorteile: Sie tun etwas für die Nachhaltigkeit und bekommen auch noch Geld dafür – statt Entsorgungsgebühren zu zahlen.</p>"
+  },
+  {
+   "heading": "Schritt für Schritt: So verkaufen Sie Ihren Schrott richtig",
+   "html": "<ol><li><strong>Sammeln und sichten:</strong> Buntmetalle, <a href=\"/eisen-schrott/\">Eisenschrott</a> und <a href=\"/kabel/\">Kabel</a> – all das können Sie bei uns abgeben.</li><li><strong>Grob vorsortieren:</strong> Wer <a href=\"/kupfer/\">Kupfer</a>, <a href=\"/messing/\">Messing</a> oder <a href=\"/aluminium/\">Aluminium</a> getrennt anliefert, bekommt die jeweiligen Sortenpreise statt des niedrigeren <a href=\"/mischschrott/\">Mischschrott</a>-Preises.</li><li><strong>Preise checken:</strong> Metallpreise ändern sich täglich – ein Blick auf <a href=\"/schrottpreise/\">Schrottpreise Berlin</a> oder ein Anruf unter 030 43206315 lohnt sich.</li><li><strong>Anliefern oder abholen lassen:</strong> Kleinmengen bringen Sie selbst vorbei, für Großmengen stellen wir Ihnen einen <a href=\"/container/\">Container zum Selbstbeladen</a>.</li><li><strong>Wiegen und kassieren:</strong> Wir wiegen präzise in Ihrem Beisein und vergüten sofort.</li></ol>"
+  },
+  {
+   "heading": "Was bringt mehr Geld: sortiert oder unsortiert?",
+   "html": "<p>Sortenrein verkauft sich Schrott am besten: Reines Kupfer oder Messing wird deutlich höher vergütet als vermischter Schrott, weil es ohne Aufbereitung wiederverwertet werden kann. Es lohnt sich also, Kabel, Buntmetalle und Eisen getrennt zu halten. Aber keine Sorge: Auch unsortierten <a href=\"/mischschrott/\">Mischschrott</a> kaufen wir an – wir bestimmen die Materialien fachkundig vor Ort und rechnen transparent ab.</p>"
+  },
+  {
+   "heading": "Wo verkaufe ich meinen Schrott in Berlin am besten?",
+   "html": "<p>Am besten bei einem größeren Schrottplatz, der eine ganze Reihe von Schrott- und Metallsorten annimmt – dann müssen Sie nicht mehrere Anlaufstellen abklappern. Peglow Schrott und Metall in Berlin-Reinickendorf ist so eine Top-Adresse, um Altmetall unkompliziert loszuwerden: Tageshöchstpreise, schnelle Bedienung, keine langen Wartezeiten. Als geprüfter Entsorgungsfachbetrieb gemäß §56 KrWG arbeiten wir seriös und umweltgerecht. Die <a href=\"/anfahrt/\">Anfahrt</a> zur Soltauer Straße 27-29 finden Sie hier. Worauf warten Sie noch?</p>"
+  }
+ ],
+ "checklist": [
+  "Ankauf zu Tageshöchstpreisen",
+  "Schnelle Bedienung ohne langes Anstehen",
+  "Buntmetalle, Eisenschrott und Kabel in einer Hand",
+  "Wiegen in Ihrem Beisein",
+  "Kompetente, seriöse Abwicklung",
+  "Container zum Selbstbeladen (5–30 m³) möglich"
+ ],
+ "table": {
+  "caption": "Sortiert vs. unsortiert verkaufen",
+  "head": [
+   "Anlieferung",
+   "Vergütung",
+   "Empfehlung"
+  ],
+  "rows": [
+   [
+    "Sortenrein (z. B. nur Kupfer)",
+    "Sortenpreis – tagesaktuell auf Anfrage",
+    "Ideal: vorher grob trennen"
+   ],
+   [
+    "Gemischt (Mischschrott)",
+    "Mischschrottpreis – tagesaktuell auf Anfrage",
+    "Okay, wenn Trennen zu aufwendig ist"
+   ],
+   [
+    "Kabel mit Ummantelung",
+    "Kabelpreis – tagesaktuell auf Anfrage",
+    "Nicht abisolieren nötig – einfach mitbringen"
+   ]
+  ]
+ },
+ "faq": [
+  {
+   "q": "Wie verkaufe ich Schrott richtig?",
+   "a": "Metalle grob vorsortieren, tagesaktuelle Preise erfragen und den Schrott zum Schrottplatz bringen – dort wird er gewogen und direkt vergütet. Bei Peglow in Berlin-Reinickendorf geht das Mo–Fr von 8 bis 17 Uhr, für größere Mengen stellen wir auch einen Container zum Selbstbeladen."
+  },
+  {
+   "q": "Sollte ich meinen Schrott vor dem Verkauf sortieren?",
+   "a": "Ja, wenn möglich: Sortenreine Metalle wie Kupfer, Messing oder Aluminium werden nach ihren jeweiligen Sortenpreisen vergütet – das bringt mehr als der pauschale Mischschrottpreis. Wer keine Zeit zum Trennen hat, kann aber auch Mischschrott abgeben."
+  },
+  {
+   "q": "Bekomme ich mein Geld beim Schrott-Verkauf sofort?",
+   "a": "Ja. Nach dem Wiegen und der Materialbestimmung wird Ihr Schrott direkt vergütet – ohne Wartefrist. Die Abwicklung dauert bei uns in der Regel nur wenige Minuten, denn kurze Wartezeiten gehören zu unserem Service."
+  },
+  {
+   "q": "Welchen Preis bekomme ich für meinen Schrott in Berlin?",
+   "a": "Das hängt von Metallsorte, Reinheit und Gewicht ab – und vom Tageskurs, denn Metallpreise schwanken täglich. Wir kaufen zu Tageshöchstpreisen an. Den aktuellen Preis für Ihr Material erfragen Sie am besten telefonisch unter 030 43206315."
+  },
+  {
+   "q": "Kann ich auch Kabel und Elektroleitungen verkaufen?",
+   "a": "Ja, Kabel gehören zu den gefragtesten Materialien, weil sie Kupfer enthalten. Sie müssen die Kabel nicht abisolieren – bringen Sie sie einfach so mit, wir bestimmen den Wert vor Ort."
+  }
+ ],
+ "service_schema": {
+  "name": "Schrott verkaufen Berlin",
+  "serviceType": "Ankauf von Schrott und Altmetall",
+  "description": "Schrott-Verkauf leicht gemacht: Peglow kauft Buntmetalle, Eisenschrott und Kabel zu Tageshöchstpreisen in Berlin-Reinickendorf an."
+ },
+ "related": [
+  [
+   "Aktuelle Schrottpreise",
+   "/schrottpreise/"
+  ],
+  [
+   "Schrott Ankauf Berlin",
+   "/schrott-ankauf/"
+  ],
+  [
+   "Mischschrott",
+   "/mischschrott/"
+  ],
+  [
+   "Containerdienst",
+   "/container/"
+  ],
+  [
+   "Anfahrt zum Schrottplatz",
+   "/anfahrt/"
+  ]
+ ],
+ "cta_heading": "Bereit, Ihren Schrott zu verkaufen?",
+ "cta_text": "Kommen Sie vorbei – Soltauer Straße 27-29, 13509 Berlin, Mo–Fr 8:00–17:00 Uhr – oder erfragen Sie vorab Ihren Tagespreis: 030 43206315."
+}

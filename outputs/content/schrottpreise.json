@@ -1,0 +1,157 @@
+{
+ "path": "/schrottpreise/",
+ "template": "service",
+ "title": "Aktuelle Schrottpreise Berlin – Tabelle & Tagespreise",
+ "meta_description": "Aktuelle Schrottpreise in Berlin: Tabelle aller Materialien von Kupfer bis Stahl – ehrliche Tagespreise statt veralteter Listen. ☎ 030 43206315",
+ "h1": "Aktuelle Schrottpreise in Berlin – Tagespreise & Tabelle",
+ "hero_kicker": "Schrottplatz Berlin-Reinickendorf",
+ "hero_text": "Schrottpreise ändern sich täglich. Wir nennen Ihnen den aktuellen Preis für Ihr Material – ehrlich, direkt und ohne versteckte Abzüge.",
+ "hero_image": "money-2991387_1920.webp",
+ "breadcrumb": [
+  [
+   "Startseite",
+   "/"
+  ],
+  [
+   "Schrottpreise",
+   "/schrottpreise/"
+  ]
+ ],
+ "intro": "<p>Peglow Schrott und Metallhandel e.K. in Berlin-Reinickendorf kauft Schrott und Metalle zu tagesaktuellen Preisen an. Schrottpreise sind keine festen Werte: Sie richten sich nach den Börsenkursen (u. a. der Londoner Metallbörse LME), der Metallsorte, der Reinheit und der Menge – und ändern sich teils täglich. Deshalb veröffentlichen wir keine starre Preisliste, sondern nennen Ihnen den aktuellen Preis für Ihr Material auf Anfrage: telefonisch unter 030 43206315 oder direkt am Schrottplatz in der Soltauer Straße 27-29, 13509 Berlin.</p>",
+ "sections": [
+  {
+   "heading": "Wovon hängen die Schrottpreise ab?",
+   "html": "<p>Der Preis, den Sie für Ihren Schrott bekommen, wird von mehreren Faktoren bestimmt:</p><ul><li><strong>Börsenkurs / Tageskurs:</strong> Nicht-Eisen-Metalle (NE-Metalle) wie <a href=\"/kupfer/\">Kupfer</a>, <a href=\"/aluminium/\">Aluminium</a>, <a href=\"/blei/\">Blei</a> oder <a href=\"/zink/\">Zink</a> werden an der Börse gehandelt und unterliegen teils täglichen Schwankungen.</li><li><strong>Metallsorte:</strong> Kupfer erzielt andere Preise als Eisen oder Mischschrott – jede Sorte hat ihren eigenen Markt.</li><li><strong>Reinheit und Qualität:</strong> Sortenreines, sauberes Material (z. B. blanker Kupferdraht) ist mehr wert als verunreinigter oder gemischter Schrott.</li><li><strong>Menge:</strong> Größere Mengen können sich auf die Konditionen auswirken.</li><li><strong>Industrienachfrage:</strong> Die Preise für Fe-Schrott (Eisenschrott) werden monatlich zwischen Großhändlern und Stahlwerken verhandelt.</li></ul><p>Das gilt für alle Sorten: Ob <strong>Kupfer-Schrottpreis</strong>, Preis für <strong>Stahlschrott</strong> oder gemischter <strong>Metallschrott</strong> – jede Materialgruppe hat ihren eigenen Tageskurs, den wir Ihnen am Telefon verbindlich nennen.</p>"
+  },
+  {
+   "heading": "Warum gibt es bei uns keine feste Preisliste?",
+   "html": "<p>Wir wollen unseren Kunden immer eine korrekte Preisauskunft geben. Da die Schrottpreise in Berlin sowohl börsen- als auch industrieabhängig sind, wäre jede gedruckte Preisliste schon nach kurzer Zeit veraltet. Statt Sie mit Lockpreisen zu ködern, die an der Waage nicht gehalten werden, nennen wir Ihnen den ehrlichen Tagespreis für Ihr Material – am Telefon unter 030 43206315, per WhatsApp unter 0175 769 17 18 oder direkt bei uns am <a href=\"/anfahrt/\">Schrottplatz in Reinickendorf</a>.</p>"
+  },
+  {
+   "heading": "Fe-Schrott und NE-Metalle – was ist der Unterschied?",
+   "html": "<p><strong>Fe-Schrott</strong> (Fe steht für ferrum, lateinisch für Eisen) umfasst alle Metalle mit Eisenanteil – also alles, was magnetisch ist. Dazu zählen Eisen, Stahl sowie <a href=\"/mischschrott/\">Mischschrott</a> mit Eisenanteil, etwa alte Maschinen, Fahrräder oder Zäune. Die Preise dafür werden monatlich zwischen Großhändlern und Stahlwerken verhandelt.</p><p><strong>NE-Metalle</strong> (Nicht-Eisen-Metalle) wie Kupfer, <a href=\"/messing/\">Messing</a>, Aluminium, Zink und Blei werden an der Börse gehandelt und schwanken teils täglich. Sie erzielen in der Regel deutlich höhere Kilopreise als Eisenschrott – besonders, wenn sie sortenrein angeliefert werden.</p>"
+  },
+  {
+   "heading": "So bekommen Sie den besten Preis für Ihren Schrott",
+   "html": "<ol><li><strong>Material grob sortieren:</strong> Sortenreine Metalle bringen mehr als gemischter Schrott. Tipps dazu geben wir gern am Telefon.</li><li><strong>Preis erfragen:</strong> Rufen Sie uns unter 030 43206315 an und nennen Sie Sorte und ungefähre Menge – wir nennen Ihnen den Tagespreis.</li><li><strong>Anliefern oder abholen lassen:</strong> Kommen Sie zu unserem Schrottplatz in der Soltauer Straße 27-29 oder vereinbaren Sie bei größeren Mengen einen <a href=\"/einzugsgebiete/\">Container zum Selbstbeladen in Berlin und Umgebung</a>.</li><li><strong>Wiegen und auszahlen:</strong> Ihr Material wird gesichtet und gewogen, die Vergütung erhalten Sie direkt – bar oder per Überweisung.</li></ol>"
+  }
+ ],
+ "checklist": [
+  "Tagesaktuelle Preise nach Börsenkurs",
+  "Ehrliche Bewertung an geeichter Waage",
+  "Barzahlung oder Überweisung – direkt nach dem Wiegen",
+  "Preisauskunft am Telefon: 030 43206315",
+  "Container zum Selbstbeladen (5–30 m³) in ganz Berlin und im gesamten Berliner Umland",
+  "Zertifizierter Entsorgungsfachbetrieb (§56 KrWG)"
+ ],
+ "table": {
+  "caption": "Aktuelle Schrottpreise – Tabelle: Was wir ankaufen",
+  "head": [
+   "Material",
+   "Was zählt dazu",
+   "Preis"
+  ],
+  "rows": [
+   [
+    "Kupfer",
+    "Blanker Draht (Millberry), Kupferrohre, Bleche, Kupfer-Raff",
+    "tagesaktuell auf Anfrage"
+   ],
+   [
+    "Messing",
+    "Armaturen, Fittings, Messingbleche, Messing-Raff",
+    "tagesaktuell auf Anfrage"
+   ],
+   [
+    "Aluminium",
+    "Profile, Bleche, Felgen, Aluminium-Guss",
+    "tagesaktuell auf Anfrage"
+   ],
+   [
+    "Edelstahl",
+    "V2A/V4A, Spülen, Geländer, Behälter",
+    "tagesaktuell auf Anfrage"
+   ],
+   [
+    "Zink",
+    "Dachrinnen, Fallrohre, Zinkbleche",
+    "tagesaktuell auf Anfrage"
+   ],
+   [
+    "Blei",
+    "Bleirohre, Bleibleche, Auswuchtgewichte",
+    "tagesaktuell auf Anfrage"
+   ],
+   [
+    "Kabel",
+    "Kupferkabel, Kabelschrott aller Art",
+    "tagesaktuell auf Anfrage"
+   ],
+   [
+    "Eisen / Stahl (Fe-Schrott)",
+    "Träger, Rohre, Maschinen, Moniereisen, Schienen",
+    "tagesaktuell auf Anfrage"
+   ],
+   [
+    "Mischschrott",
+    "Gemischte Metallabfälle, alte Maschinen, Fahrräder, Zäune",
+    "tagesaktuell auf Anfrage"
+   ]
+  ]
+ },
+ "faq": [
+  {
+   "q": "Was ist Kupfer aktuell wert?",
+   "a": "Der Kupferpreis richtet sich nach dem Börsenkurs und ändert sich täglich – auch die Sorte spielt eine Rolle: Blanker Millberry-Draht ist mehr wert als Kupfer-Raff oder ummantelte Kabel. Einen verbindlichen Tagespreis für Ihr Kupfer nennen wir Ihnen telefonisch unter 030 43206315 oder direkt an unserem Schrottplatz in Berlin-Reinickendorf."
+  },
+  {
+   "q": "Wo sehe ich aktuelle Schrottpreise?",
+   "a": "Verlässliche Schrottpreise gibt es nicht als feste Online-Liste, weil sich die Kurse für NE-Metalle teils täglich ändern. Bei Peglow bekommen Sie die aktuelle Preisauskunft direkt: Rufen Sie uns unter 030 43206315 an, schreiben Sie per WhatsApp an 0175 769 17 18 oder kommen Sie mit Ihrem Material in die Soltauer Straße 27-29, 13509 Berlin."
+  },
+  {
+   "q": "Warum schwanken Schrottpreise?",
+   "a": "NE-Metalle wie Kupfer, Aluminium oder Zink werden an der Börse gehandelt – ihre Kurse bewegen sich mit Angebot und Nachfrage auf dem Weltmarkt, teils von Tag zu Tag. Die Preise für Eisenschrott werden monatlich zwischen Großhändlern und Stahlwerken verhandelt. Deshalb ist jede feste Preisliste schnell veraltet und wir geben Preise tagesaktuell auf Anfrage heraus."
+  },
+  {
+   "q": "Bekomme ich für sortierten Schrott mehr Geld?",
+   "a": "Ja, in der Regel schon. Sortenreines, sauberes Material lässt sich direkt verwerten und wird besser vergütet als gemischter Schrott, der erst aufwendig getrennt werden muss. Wenn Sie unsicher sind, wie Sie sortieren sollen, beraten wir Sie gern unter 030 43206315 – oft lohnt sich schon eine grobe Trennung nach Metallsorten."
+  },
+  {
+   "q": "Wie wird mein Schrott bei Peglow bewertet und bezahlt?",
+   "a": "Ihr Material wird bei uns am Schrottplatz gesichtet, der Sorte zugeordnet und gewogen. Die Vergütung erfolgt nach tagesaktuellen Preisen – direkt in bar oder per Überweisung. Geöffnet haben wir Montag bis Freitag von 8 bis 17 Uhr in der Soltauer Straße 27-29, 13509 Berlin-Reinickendorf."
+  },
+  {
+   "q": "Gibt es eine aktuelle Schrottpreise-Tabelle?",
+   "a": "Ja – unsere Tabelle oben zeigt alle Materialien, die wir ankaufen, von Kupfer über Stahl bis Metallschrott. Konkrete Euro-Beträge drucken wir bewusst nicht ab, weil sich die Kurse täglich ändern: Den verbindlichen Tagespreis für Ihr Material nennen wir Ihnen unter 030 43206315."
+  }
+ ],
+ "service_schema": {
+  "name": "Schrottpreise Berlin – tagesaktuelle Preisauskunft",
+  "serviceType": "Ankauf von Schrott und Metallen zu tagesaktuellen Preisen",
+  "description": "Tagesaktuelle Preisauskunft und Ankauf von Schrott und Metallen bei Peglow Schrott und Metallhandel e.K. in Berlin-Reinickendorf."
+ },
+ "related": [
+  [
+   "Schrott-Ankauf",
+   "/schrott-ankauf/"
+  ],
+  [
+   "Kupfer-Ankauf",
+   "/kupfer/"
+  ],
+  [
+   "Metall-Ankauf Berlin",
+   "/metall-ankauf-berlin/"
+  ],
+  [
+   "Anfahrt zum Schrottplatz",
+   "/anfahrt/"
+  ],
+  [
+   "Container mieten",
+   "/container/"
+  ]
+ ],
+ "cta_heading": "Aktuellen Schrottpreis erfragen – ein Anruf genügt!",
+ "cta_text": "Rufen Sie uns an unter 030 43206315 und nennen Sie uns Sorte und Menge. Wir sagen Ihnen sofort, was Ihr Schrott heute wert ist."
+}

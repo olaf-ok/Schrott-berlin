@@ -1,0 +1,79 @@
+{
+  "path": "/kupfer-raff/",
+  "template": "material",
+  "title": "Kupfer-Raff Ankauf in Berlin | Peglow Schrott & Metall",
+  "meta_description": "Kupfer-Raff verkaufen: Alte Dachrinnen, Kupferrohre & Bleche mit Gebrauchsspuren kauft Peglow in Berlin-Reinickendorf gegen Bargeld an. ☎ 030 43206315",
+  "h1": "Kupfer-Raff-Ankauf in Berlin: gebrauchtes Kupfer zu Geld machen",
+  "hero_kicker": "Schrottplatz Berlin-Reinickendorf",
+  "hero_text": "Alte Kupferrohre, Dachrinnen oder Bleche mit Gebrauchsspuren? Genau das ist Kupfer-Raff – und das kaufen wir Ihnen gegen Bargeld ab.",
+  "hero_image": "kupfer_raff.webp",
+  "breadcrumb": [["Startseite", "/"], ["Metall-Ankauf", "/metall-ankauf/"], ["Kupfer-Raff", "/kupfer-raff/"]],
+  "intro": "<p>Kupfer-Raff ist gebrauchtes Kupfer, das bereits als Bauteil im Einsatz war – zum Beispiel als Regenrinne, Dachabdeckung oder Rohr – und deshalb Gebrauchsspuren, Oxidation oder Anhaftungen aufweisen darf. Peglow Schrott und Metallhandel e.K. kauft Kupfer-Raff auf dem Schrotthof in der Soltauer Straße 27-29 in Berlin-Reinickendorf an und tauscht es gegen Bargeld – bewertet nach tagesaktuellen Kursen, die Sie unter 030 43206315 erfragen können.</p>",
+  "sections": [
+    {
+      "heading": "Was verbirgt sich hinter der Bezeichnung Kupfer-Raff?",
+      "html": "<p>Hinter dem etwas eigentümlichen Begriff steckt eine einfache Sache: Kupfer-Raff ist Kupfer, das schon einmal verbaut oder verwendet wurde. Es darf Gebrauchsspuren zeigen, angelaufen oder oxidiert sein – die typische grünliche Patina alter Kupferdächer ist also kein Problem. Klassische Beispiele für Kupfer-Raff sind:</p><ul><li>alte Regenrinnen und Fallrohre aus Kupfer</li><li>Dachabdeckungen und Kupferbleche</li><li>ausgebaute Kupferrohre aus Heizungs- und Sanitärinstallationen</li><li>sonstige gebrauchte Kupferbauteile</li></ul>"
+    },
+    {
+      "heading": "Worin unterscheidet sich Kupfer-Raff von Millberry?",
+      "html": "<p>Die Abgrenzung ist für den Preis entscheidend: <a href=\"/kupfer/\">Kupfer Millberry</a> ist blanker, sauberer Draht ohne jede Anhaftung – die Top-Qualität. Kupfer-Raff dagegen ist Gebrauchskupfer: Es kann Lötstellen, Farbreste, Oxidschichten oder kleine Fremdanteile enthalten und wird deshalb als eigene Sorte bewertet. Beide Sorten sind gefragt, denn Kupfer lässt sich ohne Qualitätsverlust wieder einschmelzen. Ummantelte Leitungen gehören übrigens in keine der beiden Kategorien – die bewerten wir als <a href=\"/kabel-schrott/\">Kabel-Schrott</a> separat.</p>"
+    },
+    {
+      "heading": "Warum ist auch gebrauchtes Kupfer noch bares Geld wert?",
+      "html": "<p>Kupfer ist ein vielseitiger Werkstoff: leicht formbar und dennoch relativ stabil. Es dient als Wärme- und Stromleiter in Kabeln, als effizienter Korrosionsschutz in Legierungen und steckt sogar in Musikinstrumenten und Münzen. Menschen verwenden Kupfer bereits seit rund zehntausend Jahren – Ihr Kupfer-Raff ist also gewissermaßen schon eine ganze Weile im Umlauf und bleibt es durchs Recycling auch. Genau deshalb zahlen wir für gebrauchtes Kupfer nach Gewicht und Tageskurs, auch wenn es nicht mehr glänzt.</p>"
+    },
+    {
+      "heading": "So geben Sie Ihr Kupfer-Raff bei Peglow ab",
+      "html": "<p>Sie bringen Ihr Kupfer-Raff – gern zusammen mit anderen Metallen oder <a href=\"/mischschrott/\">Mischschrott</a> – auf unseren Schrotthof im Norden von Berlin: Soltauer Straße 27-29, 13509 Berlin-Reinickendorf, Montag bis Freitag von 8 bis 17 Uhr. Wir verwiegen das Material und Sie erhalten Ihr Geld direkt bar auf die Hand. Weil die Kupferkurse schwanken, erfragen Sie die Preise am besten kurz vorher telefonisch oder persönlich – einen Überblick gibt auch unsere Seite <a href=\"/schrottpreise/\">Schrottpreise</a>. Den Weg zu uns finden Sie unter <a href=\"/anfahrt/\">Anfahrt</a>.</p>"
+    }
+  ],
+  "checklist": [
+    "Bargeld für Ihr Kupfer-Raff nach Tageskurs",
+    "Gebrauchsspuren und Patina sind kein Problem",
+    "Faire Bewertung nach Sorte und Gewicht",
+    "Persönliche Beratung zur Einstufung Ihres Materials",
+    "Schrotthof im Berliner Norden, Mo–Fr 8–17 Uhr",
+    "Zertifizierter Entsorgungsfachbetrieb gemäß §56 KrWG"
+  ],
+  "table": {
+    "caption": "Kupfer-Raff und verwandte Kupferqualitäten",
+    "head": ["Qualität", "Zustand", "Typische Herkunft", "Preis"],
+    "rows": [
+      ["Kupfer-Raff", "Gebraucht, mit Gebrauchsspuren, Patina oder Anhaftungen", "Dachrinnen, Dachabdeckungen, Rohre", "tagesaktuell auf Anfrage"],
+      ["Kupfer Millberry", "Blanker, sauberer Draht ohne Anhaftungen", "Abisolierte Kabeladern", "tagesaktuell auf Anfrage"],
+      ["Kabel-Schrott", "Kupferleitung mit Kunststoff-Ummantelung", "Elektroinstallation, Geräteleitungen", "tagesaktuell auf Anfrage"]
+    ]
+  },
+  "faq": [
+    {
+      "q": "Was zählt alles als Kupfer-Raff?",
+      "a": "Kupfer-Raff ist im Prinzip jedes Kupfer, das schon einmal verwendet wurde: alte Regenrinnen, Dachabdeckungen, Rohre, Bleche und andere gebrauchte Kupferbauteile. Gebrauchsspuren, Oxidation und Patina gehören dazu und sind völlig in Ordnung."
+    },
+    {
+      "q": "Ist oxidiertes oder grün angelaufenes Kupfer weniger wert als blankes?",
+      "a": "Angelaufenes Gebrauchskupfer wird als Kupfer-Raff eingestuft und damit anders bewertet als blanker Millberry-Draht, der die Top-Sorte darstellt. Wertlos ist es aber keinesfalls – Kupfer bleibt auch mit Patina ein gefragter Rohstoff, den wir nach Gewicht und Tageskurs vergüten."
+    },
+    {
+      "q": "Wie erfahre ich, was Peglow für Kupfer-Raff in Berlin zahlt?",
+      "a": "Da die Kupferkurse täglich schwanken, erfragen Sie den Preis am besten direkt bei uns: telefonisch unter 030 43206315 oder persönlich in der Soltauer Straße 27-29 in Berlin-Reinickendorf. Wir schauen uns Ihr Material an und nennen Ihnen die tagesaktuelle Vergütung."
+    },
+    {
+      "q": "Kann ich Kupfer-Raff zusammen mit anderem Schrott abgeben?",
+      "a": "Ja, Sie können Kupfer-Raff genau wie andere Metalle und Mischschrott bei uns auf dem Schrotthof abgeben. Für die beste Vergütung sortieren wir das Material nach Sorten – reines Kupfer-Raff wird dabei deutlich besser bewertet als gemischter Schrott."
+    }
+  ],
+  "service_schema": {
+    "name": "Kupfer-Raff-Ankauf Berlin",
+    "serviceType": "Ankauf von gebrauchtem Kupferschrott (Kupfer-Raff)",
+    "description": "Ankauf von Kupfer-Raff wie alten Dachrinnen, Kupferrohren und Blechen gegen Bargeld in Berlin-Reinickendorf."
+  },
+  "related": [
+    ["Kupfer-Ankauf", "/kupfer/"],
+    ["Kabel-Schrott", "/kabel-schrott/"],
+    ["Messing-Raff-Ankauf", "/messing-raff/"],
+    ["Aktuelle Schrottpreise", "/schrottpreise/"],
+    ["Anfahrt zum Schrottplatz", "/anfahrt/"]
+  ],
+  "cta_heading": "Kupfer-Raff loswerden? Wir freuen uns auf Ihr Material!",
+  "cta_text": "Rufen Sie kurz durch unter 030 43206315 und erfragen Sie den Tageskurs – oder kommen Sie direkt vorbei: Soltauer Straße 27-29, 13509 Berlin-Reinickendorf."
+}

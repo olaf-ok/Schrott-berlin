@@ -1,0 +1,79 @@
+{
+  "path": "/messing-raff/",
+  "template": "material",
+  "title": "Messing-Raff Ankauf in Berlin | Peglow Schrott & Metall",
+  "meta_description": "Messing-Raff verkaufen in Berlin: Peglow kauft alte Rohre, Fittings & oxidierte Messingteile an – Preis direkt erfragen und vorbeikommen. ☎ 030 43206315",
+  "h1": "Messing-Raff-Ankauf in Berlin: auch alte Messingteile sind Geld wert",
+  "hero_kicker": "Schrottplatz Berlin-Reinickendorf",
+  "hero_text": "Oxidierte Rohre, alte Verbindungsstücke, ausgediente Instrumententeile: Messing-Raff nehmen wir gern an – fair bewertet nach Tageskurs.",
+  "hero_image": "messing_raff.webp",
+  "breadcrumb": [["Startseite", "/"], ["Metall-Ankauf", "/metall-ankauf/"], ["Messing-Raff", "/messing-raff/"]],
+  "intro": "<p>Messing-Raff ist gebrauchter Messingschrott: alte Bauteile und Reste aus Messing, die Gebrauchsspuren aufweisen oder oxidiert sind – etwa Rohre, Verbindungsstücke, Kunstgegenstände oder Instrumententeile. Peglow Schrott und Metallhandel e.K. kauft Messing-Raff in Berlin an: Sie bringen Ihre Teile zur Soltauer Straße 27-29 in Berlin-Reinickendorf, wir bewerten sie nach dem aktuellen Kurs. Den Tagespreis erfragen Sie vorab unter 030 43206315.</p>",
+  "sections": [
+    {
+      "heading": "Was bedeutet die Bezeichnung Raff?",
+      "html": "<p>Mit Raff ist im Schrotthandel generell gebrauchter Metallschrott gemeint – also alte Bauteile oder Reste einer Metallsorte. Raff gibt es deshalb nicht nur bei Messing: Auch <a href=\"/kupfer-raff/\">Kupfer-Raff</a> ist eine gängige Handelssorte. Unter Raff fallen ausdrücklich auch Metallteile, die bereits Gebrauchsspuren aufweisen oder oxidiert sind. Messing-Raff kann also zum Beispiel in Form von alten Rohren, Verbindungsstücken, Kunstgegenständen oder Instrumententeilen vorkommen – kurz: alles aus Messing, was seine besten Jahre schon hinter sich hat.</p>"
+    },
+    {
+      "heading": "Welche Teile zählen typischerweise zum Messing-Raff?",
+      "html": "<p>Messing ist eine vielseitige Legierung, die seit Tausenden von Jahren verwendet wird – früher hauptsächlich für Gefäße, Reliquien und Schmuck, heute in zahlreichen Maschinen und Gebrauchsgegenständen. Entsprechend vielfältig ist das, was als Messing-Raff bei uns ankommt:</p><ul><li>alte Rohre und Rohrverbindungsstücke</li><li>ausgebaute Fittings und Ventile mit Gebrauchsspuren</li><li>Schrauben und Kleinteile aus Messing</li><li>Antennenteile</li><li>ausgediente Musikinstrumente und Instrumententeile</li><li>angelaufene Kunst- und Dekogegenstände</li></ul>"
+    },
+    {
+      "heading": "Warum lohnt sich der Verkauf von oxidiertem Messing?",
+      "html": "<p>Weil der Materialwert bleibt: Messing besteht überwiegend aus <a href=\"/kupfer/\">Kupfer</a> und <a href=\"/zink/\">Zink</a> – beides gefragte Rohstoffe, die sich beim Recycling vollständig zurückgewinnen lassen. Eine matte oder dunkel angelaufene Oberfläche ändert daran nichts. Statt alte Messingteile jahrelang im Keller zu lagern oder in den Hausmüll zu geben, machen Sie sie bei uns zu Geld und bringen das Material zurück in den Rohstoffkreislauf. Blankes, neuwertiges Messing wird übrigens als eigene Sorte bewertet – die Unterschiede erklärt unser <a href=\"/messing/\">Messing-Ratgeber</a>.</p>"
+    },
+    {
+      "heading": "So geben Sie Ihr Messing-Raff bei Peglow ab",
+      "html": "<p>Erkundigen Sie sich am besten direkt bei uns zu Ihren Schrottteilen und den aktuellen Preisen: telefonisch unter 030 43206315, per WhatsApp an 0175 769 17 18 oder persönlich vor Ort. Dann bringen Sie Ihr Messing-Raff einfach zu unserem Schrottplatz in der Soltauer Straße 27-29, 13509 Berlin-Reinickendorf – geöffnet Montag bis Freitag von 8 bis 17 Uhr. Wir verwiegen Ihre Teile transparent und vergüten nach Tageskurs. Wie Sie uns am besten erreichen, zeigt die <a href=\"/anfahrt/\">Anfahrtsbeschreibung</a>; einen Überblick über alle Kurse gibt die Seite <a href=\"/schrottpreise/\">Schrottpreise</a>.</p>"
+    }
+  ],
+  "checklist": [
+    "Ankauf von Messing-Raff nach tagesaktuellem Kurs",
+    "Oxidation und Gebrauchsspuren mindern nicht den Annahmewert der Sorte",
+    "Ehrliche Einstufung und transparentes Wiegen",
+    "Beratung zu allen Fragen rund um Ihre Schrottteile",
+    "Schrottplatz in Reinickendorf, Mo–Fr 8–17 Uhr",
+    "Zertifizierter Entsorgungsfachbetrieb gemäß §56 KrWG"
+  ],
+  "table": {
+    "caption": "Messing-Qualitäten im Vergleich",
+    "head": ["Qualität", "Zustand", "Typische Beispiele", "Preis"],
+    "rows": [
+      ["Messing-Raff", "Gebraucht, oxidiert, mit Gebrauchsspuren", "Alte Rohre, Fittings, Instrumententeile", "tagesaktuell auf Anfrage"],
+      ["Messing blank", "Sauberes, unverbautes Messing", "Neuware-Reste, Bleche, Drehspäne", "tagesaktuell auf Anfrage"],
+      ["Gelbguss", "Gegossene Messingteile", "Ventile, Armaturen", "tagesaktuell auf Anfrage"]
+    ]
+  },
+  "faq": [
+    {
+      "q": "Was ist der Unterschied zwischen Messing und Messing-Raff?",
+      "a": "Messing bezeichnet die Kupfer-Zink-Legierung selbst, Messing-Raff dagegen gebrauchten Messingschrott: alte Bauteile und Reste, die Gebrauchsspuren aufweisen oder oxidiert sein können. Für die Bewertung am Schrottplatz ist diese Einstufung wichtig, denn Raff wird als eigene Sorte gehandelt."
+    },
+    {
+      "q": "Nimmt Peglow auch stark oxidierte oder verschmutzte Messingteile an?",
+      "a": "Ja. Oxidation und Gebrauchsspuren gehören bei Messing-Raff dazu – genau dafür gibt es diese Sorte. Bringen Sie Ihre Teile einfach vorbei; wir schauen sie uns an, stufen sie ehrlich ein und nennen Ihnen die tagesaktuelle Vergütung."
+    },
+    {
+      "q": "Wie erfahre ich den aktuellen Preis für Messing-Raff in Berlin?",
+      "a": "Am schnellsten telefonisch unter 030 43206315 oder persönlich in der Soltauer Straße 27-29 in Berlin-Reinickendorf. Da die Metallkurse schwanken, nennen wir Preise grundsätzlich tagesaktuell auf Anfrage."
+    },
+    {
+      "q": "Kann ich Messing-Raff zusammen mit Kupfer-Raff abgeben?",
+      "a": "Ja, Sie können beide Sorten beim selben Besuch abgeben – wir verwiegen und vergüten sie getrennt, damit Sie für jede Sorte den passenden Kurs erhalten. Wenn Sie unsicher sind, welches Teil zu welcher Sorte gehört, sortieren wir gemeinsam mit Ihnen vor Ort."
+    }
+  ],
+  "service_schema": {
+    "name": "Messing-Raff-Ankauf Berlin",
+    "serviceType": "Ankauf von gebrauchtem Messingschrott (Messing-Raff)",
+    "description": "Ankauf von Messing-Raff wie alten Rohren, Fittings und oxidierten Messingteilen nach Tageskurs in Berlin-Reinickendorf."
+  },
+  "related": [
+    ["Messing-Ratgeber", "/messing/"],
+    ["Messing-Schrott", "/messing-schrott/"],
+    ["Kupfer-Raff-Ankauf", "/kupfer-raff/"],
+    ["Aktuelle Schrottpreise", "/schrottpreise/"],
+    ["Anfahrt zum Schrottplatz", "/anfahrt/"]
+  ],
+  "cta_heading": "Messing-Raff abzugeben? Kommen Sie vorbei!",
+  "cta_text": "Rufen Sie uns an oder kommen Sie direkt zum Schrottplatz: 030 43206315 – Soltauer Straße 27-29, 13509 Berlin-Reinickendorf, Mo–Fr 8–17 Uhr."
+}

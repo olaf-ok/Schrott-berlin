@@ -1,0 +1,94 @@
+{
+  "path": "/ankauf/",
+  "template": "landing",
+  "title": "Schrott & Altmetall Ankauf | Peglow Schrott und Metall",
+  "meta_description": "Schrott- und Altmetall-Ankauf bei Peglow Berlin: Tageshöchstpreise, kurze Wartezeiten, präzises Wiegen, Barauszahlung. Jetzt anrufen: ☎ 030 43206315",
+  "h1": "Schrott- und Altmetall-Ankauf bei Peglow",
+  "hero_kicker": "Über 20 Jahre im Altmetall-Geschäft",
+  "hero_text": "Buntmetalle, Kabel, Eisenschrott: Wir kaufen jede Menge, die unsere Waage anzeigt – von Privat und Gewerbe, fair und unkompliziert.",
+  "hero_image": "Schere.webp",
+  "breadcrumb": [
+    [
+      "Startseite",
+      "/"
+    ],
+    [
+      "Ankauf",
+      "/ankauf/"
+    ]
+  ],
+  "intro": "<p>Sie möchten Ihr Altmetall oder Ihren Schrott loswerden? Dann bringen Sie Buntmetalle, Kabel und Eisenschrott am besten zu unserem Schrottplatz in Berlin-Reinickendorf, Soltauer Straße 27-29. Egal ob Sie ein Handwerksunternehmen betreiben oder als Privatperson kommen: Peglow Schrott und Metallhandel e.K. kauft jede Menge, die unsere Waage anzeigt. Wir kennen das Altmetall-Geschäft seit über 20 Jahren – und unsere Kunden vertrauen uns seit der Unternehmensgründung.</p>",
+  "sections": [
+    {
+      "heading": "Ihre 4 Plus-Punkte beim Ankauf",
+      "html": "<p>Verantwortlich für unseren Erfolg sind diese vier Plus-Punkte für Sie als Kunde:</p><ul><li><strong>Angemessene Konditionen:</strong> Wir kaufen zu Tageshöchstpreisen.</li><li><strong>Kurze Wartezeiten:</strong> Wir bedienen Sie schnell und umfassend.</li><li><strong>Präzise Gewichtserfassung:</strong> Wir wiegen korrekt und in Ihrem Beisein.</li><li><strong>Unkomplizierte Abwicklung:</strong> Wir bestimmen Material und Preis, danach zahlen wir bar aus.</li></ul>"
+    },
+    {
+      "heading": "Was können Sie bei uns verkaufen?",
+      "html": "<p>Unser Ankauf gliedert sich in zwei Bereiche:</p><ul><li><a href=\"/schrott-ankauf/\">Schrott Ankauf</a>: <a href=\"/brennerschrott/\">Brennerschrott</a>, <a href=\"/moniereisen/\">Moniereisen</a>, <a href=\"/bremsscheiben/\">Bremsscheiben</a>, <a href=\"/mischschrott/\">Mischschrott</a>, <a href=\"/schienen/\">Schienen</a> und <a href=\"/guss/\">Guss</a></li><li><a href=\"/metall-ankauf/\">Metall Ankauf</a>: <a href=\"/aluminium/\">Aluminium</a>, <a href=\"/blei/\">Blei</a>, <a href=\"/edelstahl/\">Edelstahl</a>, <a href=\"/zink/\">Zink</a>, <a href=\"/kupfer/\">Kupfer</a>, <a href=\"/messing/\">Messing</a> und <a href=\"/kabel/\">Kabel</a></li></ul><p>Die tagesaktuellen Konditionen finden Sie unter <a href=\"/schrottpreise/\">Schrottpreise</a>.</p>"
+    },
+    {
+      "heading": "Größere Mengen? Container statt Schlepperei",
+      "html": "<p>Wenn Sie über größere Mengen an Altmetall verfügen, müssen Sie sich nicht einmal den Weg zu unserem Schrottplatz machen: Ab einem Volumen von 3 Kubikmetern sprechen Sie uns einfach auf die Gestellung eines Schrott- oder Altmetall-Containers an – verfügbar bis 30 m³. Abgeholt wird in ganz Berlin und im gesamten Berliner Umland. Alle Details unter <a href=\"/container/\">Containerdienst</a> und <a href=\"/einzugsgebiete/\">Einzugsgebiete</a>.</p>"
+    },
+    {
+      "heading": "Überzeugen Sie sich selbst",
+      "html": "<p>Versprechen können wir vieles – gerne überzeugen wir Sie im persönlichen Kontakt davon, dass wir es auch halten. Deshalb freuen wir uns auf Ihren Besuch in der Soltauer Straße 27-29 (<a href=\"/anfahrt/\">Anfahrt</a>), Mo–Fr von 8 bis 17 Uhr. Als geprüfter Entsorgungsfachbetrieb gemäß §56 KrWG stehen wir für seriöse, umweltgerechte Abwicklung. Wer einmal bei uns war, kommt auch beim nächsten Mal – versprochen. Mehr über uns: <a href=\"/uber-uns/\">Über uns</a>.</p>"
+    }
+  ],
+  "checklist": [
+    "Tageshöchstpreise für Schrott und Metall",
+    "Kurze Wartezeiten, schnelle Bedienung",
+    "Korrektes Wiegen in Ihrem Beisein",
+    "Barauszahlung nach Materialbestimmung",
+    "Container ab 5 bis 30 m³",
+    "Über 20 Jahre Erfahrung"
+  ],
+  "faq": [
+    {
+      "q": "Was kauft Peglow alles an?",
+      "a": "Buntmetalle wie Kupfer, Messing, Aluminium, Zink, Blei und Edelstahl, außerdem Kabel, Eisenschrott sowie Schrottsorten wie Brennerschrott, Moniereisen, Bremsscheiben, Mischschrott, Schienen und Guss. Wir kaufen jede Menge, die unsere Waage anzeigt."
+    },
+    {
+      "q": "Wie läuft der Ankauf bei Peglow ab?",
+      "a": "Sie bringen Ihr Material zur Soltauer Straße 27-29 in Berlin-Reinickendorf. Wir bestimmen Material und Preis, wiegen korrekt in Ihrem Beisein und zahlen danach bar aus – schnell und ohne lange Wartezeiten."
+    },
+    {
+      "q": "Kauft Peglow auch kleine Mengen an?",
+      "a": "Ja, es gibt keine Mindestmenge – ob eine Tüte Kabelreste oder ein ganzer Transporter voll Schrott: Was die Waage anzeigt, wird vergütet. Auch Privatpersonen sind bei uns ausdrücklich willkommen."
+    },
+    {
+      "q": "Ab welcher Menge lohnt sich ein Container?",
+      "a": "Ab einem Volumen von etwa 3 Kubikmetern stellen wir Ihnen einen Schrott- oder Altmetall-Container – bis zu 30 m³ Fassungsvermögen. Das lohnt sich für Baustellen, Entrümpelungen und Betriebe mit regelmäßigem Metallanfall. Anfrage unter 030 43206315."
+    }
+  ],
+  "service_schema": {
+    "name": "Schrott- und Altmetall-Ankauf",
+    "serviceType": "Ankauf von Schrott und Altmetall",
+    "description": "Ankauf von Buntmetallen, Kabeln und Eisenschrott zu Tageshöchstpreisen mit Barauszahlung – bei Peglow in Berlin-Reinickendorf."
+  },
+  "related": [
+    [
+      "Schrott Ankauf im Detail",
+      "/schrott-ankauf/"
+    ],
+    [
+      "Metall-Ankauf: alle Sorten",
+      "/metall-ankauf/"
+    ],
+    [
+      "Aktuelle Schrottpreise",
+      "/schrottpreise/"
+    ],
+    [
+      "Containerdienst",
+      "/container/"
+    ],
+    [
+      "Einzugsgebiete",
+      "/einzugsgebiete/"
+    ]
+  ],
+  "cta_heading": "Wir freuen uns auf Ihren Besuch!",
+  "cta_text": "Soltauer Straße 27-29, 13509 Berlin-Reinickendorf – Mo–Fr 8:00–17:00 Uhr. Fragen vorab? 030 43206315."
+}

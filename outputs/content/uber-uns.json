@@ -1,0 +1,86 @@
+{
+  "path": "/uber-uns/",
+  "template": "company",
+  "title": "Über uns – Schrotthandel Peglow in Berlin-Reinickendorf",
+  "meta_description": "Peglow Schrott und Metall: Familienunternehmen mit über 20 Jahren Erfahrung, eigenem Schrottplatz in Reinickendorf & fairen Preisen. ☎ 030 43206315",
+  "h1": "Über uns: Peglow – mehr als Sie erwarten",
+  "hero_kicker": "Familienunternehmen aus Berlin-Reinickendorf",
+  "hero_text": "Seit über 20 Jahren steht der Name Peglow in Berlin für Zuverlässigkeit und Ehrlichkeit im Schrott- und Metallhandel.",
+  "hero_image": "uberuns.webp",
+  "breadcrumb": [
+    [
+      "Startseite",
+      "/"
+    ],
+    [
+      "Über uns",
+      "/uber-uns/"
+    ]
+  ],
+  "intro": "<p>Peglow Schrott und Metallhandel e.K. ist ein familiengeführtes Unternehmen im Norden Berlins und Ihr kompetenter Partner in Sachen Schrott. Unser Name steht seit über 20 Jahren für Zuverlässigkeit und Ehrlichkeit. Geführt wird das Unternehmen von Inhaber Philip Peglow; unser Schrottplatz liegt in der Soltauer Straße 27-29, 13509 Berlin, im Bezirk Reinickendorf. Hier kaufen wir Schrott und Metalle von Privat- und Gewerbekunden an – persönlich, fair und nach tagesaktuellen Preisen.</p>",
+  "sections": [
+    {
+      "heading": "Unsere Geschichte: vom Baustellen-Partner zum offenen Schrottplatz",
+      "html": "<p>Über viele Jahre haben wir vor allem Großkunden auf Baustellen betreut. Im Januar 2011 haben wir dann einen eigenen Schrottplatz für den öffentlichen Ankauf eingerichtet – seitdem sind wir auch für Privatkunden die erste Adresse, wenn es um <a href=\"/schrott-ankauf/\">Schrott-Ankauf</a> in Berlin geht.</p><p>Eine Besonderheit unseres Geländes: Unsere Mauerflächen haben wir Jugendlichen zum Anlegen eines Graffitigemäldes überlassen. Das Ergebnis wurde im Rahmen des Bauherrenpreises 2012 in der Kategorie „Außergewöhnliche Initiativen“ belobigt.</p>"
+    },
+    {
+      "heading": "Was macht Peglow anders als andere Schrottplätze?",
+      "html": "<p>Auf unserem Gelände beweisen wir Ihnen, dass es auf einem Schrottplatz persönlich zugehen kann: von der Begutachtung des Materials bis zum kräftigen Händedruck nach der Auszahlung. Lassen Sie sich individuell betreuen – der Rest sind für uns Selbstverständlichkeiten: profunde Materialkenntnis, gesetzeskonforme Abläufe und umweltgerechte Verwertung.</p><p>Als Familienunternehmen sind wir fest in der Region verankert und jederzeit direkt ansprechbar. Unsere Kunden schätzen schnelle Entscheidungen, unsere Flexibilität und faire Ankaufspreise nach <a href=\"/schrottpreise/\">tagesaktuellen Kursen</a>. Wer einmal zu uns kommt, der kommt auch beim nächsten Mal.</p>"
+    },
+    {
+      "heading": "Zertifizierter Entsorgungsfachbetrieb – geprüfte Qualität",
+      "html": "<p>Umweltgerechte und gesetzeskonforme Verwertung ist bei uns keine Floskel, sondern zertifiziert. Peglow Schrott und Metallhandel e.K. ist:</p><ul><li>Geprüfter Entsorgungsfachbetrieb zur Lagerung gemäß §56 KrWG (OEControl Nr. OETH11012021)</li><li>Geprüfter Entsorgungsfachbetrieb für abfallwirtschaftliche Tätigkeiten gemäß §56 KrWG (OEControl Nr. OEEW11012025)</li></ul><p>Zertifiziert durch die oecontrol Technische Überwachungsorganisation GmbH (behördliche Vorgangsnummer ZZLT004001000008). Sie können sich also darauf verlassen, dass Ihr Schrott bei uns ordnungsgemäß gelagert, dokumentiert und verwertet wird.</p>"
+    },
+    {
+      "heading": "Was können Sie bei uns loswerden?",
+      "html": "<p>Wir kaufen nahezu alle Schrott- und Metallsorten an – von <a href=\"/kupfer/\">Kupfer</a>, <a href=\"/messing/\">Messing</a> und <a href=\"/aluminium/\">Aluminium</a> über <a href=\"/edelstahl/\">Edelstahl</a>, Zink und Blei bis zu <a href=\"/kabel/\">Kabeln</a>, <a href=\"/eisen-schrott/\">Eisenschrott</a> und <a href=\"/mischschrott/\">Mischschrott</a>. Kleinere Mengen liefern Sie einfach selbst an – die <a href=\"/anfahrt/\">Anfahrt</a> ist unkompliziert, geöffnet haben wir Montag bis Freitag von 8 bis 17 Uhr. Für größere Mengen stellen wir Ihnen einen <a href=\"/container/\">Container zum Selbstbeladen</a> (5 bis 30 m³) auf – in ganz Berlin und im gesamten Berliner Umland, besonders praktisch für Baustellen und Gewerbe.</p><p>Überzeugen Sie sich selbst von unserer Leistungsstärke – wir freuen uns auf Sie!</p>"
+    }
+  ],
+  "checklist": [
+    "Über 20 Jahre Erfahrung im Schrott- und Metallhandel",
+    "Familienunternehmen, fest in der Region verankert",
+    "Eigener Schrottplatz für den öffentlichen Ankauf seit 2011",
+    "Persönliche Betreuung – von der Begutachtung bis zur Auszahlung",
+    "Geprüfter Entsorgungsfachbetrieb gemäß §56 KrWG",
+    "Faire Ankaufspreise und schnelle Entscheidungen"
+  ],
+  "faq": [
+    {
+      "q": "Wie lange gibt es Peglow Schrott und Metallhandel schon?",
+      "a": "Der Name Peglow steht seit über 20 Jahren für Zuverlässigkeit und Ehrlichkeit im Berliner Schrotthandel. Ursprünglich haben wir vor allem Großkunden auf Baustellen betreut; im Januar 2011 haben wir unseren eigenen Schrottplatz für den öffentlichen Ankauf in der Soltauer Straße 27-29 in Berlin-Reinickendorf eröffnet."
+    },
+    {
+      "q": "Wer steht hinter Peglow Schrott und Metallhandel e.K.?",
+      "a": "Peglow ist ein familiengeführtes Unternehmen unter der Leitung von Inhaber Philip Peglow. Als Familienunternehmen sind wir fest in der Region verankert und jederzeit direkt ansprechbar – Sie erreichen uns unter 030 43206315 oder persönlich am Schrottplatz in Berlin-Reinickendorf."
+    },
+    {
+      "q": "Ist Peglow ein zertifizierter Entsorgungsfachbetrieb?",
+      "a": "Ja. Wir sind geprüfter Entsorgungsfachbetrieb gemäß §56 KrWG – sowohl zur Lagerung (OEControl Nr. OETH11012021) als auch für abfallwirtschaftliche Tätigkeiten (OEControl Nr. OEEW11012025), zertifiziert durch die oecontrol Technische Überwachungsorganisation GmbH. Ihr Schrott wird bei uns gesetzeskonform und umweltgerecht verwertet."
+    }
+  ],
+  "related": [
+    [
+      "Peglow Schrott & Metall",
+      "/peglow-schrott/"
+    ],
+    [
+      "Schrott-Ankauf",
+      "/schrott-ankauf/"
+    ],
+    [
+      "Anfahrt zum Schrottplatz",
+      "/anfahrt/"
+    ],
+    [
+      "Jobs bei Peglow",
+      "/jobs/"
+    ],
+    [
+      "Kontakt",
+      "/kontakt/"
+    ]
+  ],
+  "cta_heading": "Lernen Sie uns kennen – wir freuen uns auf Sie!",
+  "cta_text": "Kommen Sie vorbei in der Soltauer Straße 27-29, 13509 Berlin-Reinickendorf (Mo–Fr 8–17 Uhr) oder rufen Sie an: 030 43206315.",
+  "show_reviews": true
+}

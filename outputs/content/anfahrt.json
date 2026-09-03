@@ -1,0 +1,95 @@
+{
+  "path": "/anfahrt/",
+  "template": "service",
+  "title": "Anfahrt zum Schrottplatz Berlin-Reinickendorf | Peglow",
+  "meta_description": "So finden Sie unseren Schrottplatz: Soltauer Straße 27-29, 13509 Berlin-Reinickendorf. Mo–Fr 8–17 Uhr geöffnet. Fragen? ☎ 030 43206315 – wir helfen gern.",
+  "h1": "Anfahrt zu unserem Schrottplatz in Berlin-Reinickendorf",
+  "hero_kicker": "Soltauer Straße 27-29, 13509 Berlin",
+  "hero_text": "Schrott selbst anliefern und direkt auszahlen lassen: Sie finden uns in der Soltauer Straße 27-29 im Ortsteil Borsigwalde – Mo bis Fr von 8 bis 17 Uhr.",
+  "hero_image": "brown-design-exterior-925728.webp",
+  "breadcrumb": [
+    [
+      "Startseite",
+      "/"
+    ],
+    [
+      "Anfahrt",
+      "/anfahrt/"
+    ]
+  ],
+  "intro": "<p>Der Schrottplatz von Peglow Schrott und Metallhandel e.K. liegt in der Soltauer Straße 27-29, 13509 Berlin – im Ortsteil Borsigwalde, Bezirk Reinickendorf, im Norden Berlins. Hier können Sie Ihren Schrott und Ihr Altmetall Montag bis Freitag von 8 bis 17 Uhr selbst anliefern: Ihr Material wird gesichtet, gewogen und direkt nach tagesaktuellen Preisen vergütet.</p><p>Bei Fragen zur Anfahrt erreichen Sie uns unter 030 43206315.</p>",
+  "sections": [
+    {
+      "heading": "Wie erreichen Sie unseren Schrottplatz?",
+      "html": "<p>Unser Betriebsgelände in der Soltauer Straße 27-29 liegt verkehrsgünstig im Norden Berlins und ist über die Stadtautobahn A 111 gut zu erreichen. Für die Navigation geben Sie einfach ein: <strong>Soltauer Str. 27-29, 13509 Berlin</strong>. Auf dem Gelände können Sie direkt vorfahren – unser Team weist Sie ein und hilft beim Abladen. Wenn Sie unsicher sind, wie Sie am besten zu uns kommen, rufen Sie kurz an unter 030 43206315 oder schreiben Sie per WhatsApp an 0175 769 17 18.</p>"
+    },
+    {
+      "heading": "Wann haben wir geöffnet?",
+      "html": "<p>Unsere Öffnungszeiten:</p><ul><li><strong>Montag bis Freitag: 8:00 – 17:00 Uhr</strong></li><li>Samstag und Sonntag: geschlossen</li></ul><p>Innerhalb der Öffnungszeiten können Sie ohne Termin anliefern. Bei größeren Mengen empfiehlt sich eine kurze telefonische Ankündigung – dann geht es an der Waage noch schneller.</p>"
+    },
+    {
+      "heading": "Was sollten Sie zur Anlieferung wissen?",
+      "html": "<p>So läuft die Selbstanlieferung bei uns ab:</p><ol><li><strong>Vorfahren und abladen:</strong> Sie bringen Ihren Schrott auf unser Gelände – unser Team unterstützt Sie beim Abladen.</li><li><strong>Sichten und wiegen:</strong> Ihr Material wird begutachtet, der Sorte zugeordnet und gewogen.</li><li><strong>Direkt kassieren:</strong> Sie erhalten Ihre Vergütung nach <a href=\"/schrottpreise/\">tagesaktuellen Preisen</a> – bar oder per Überweisung.</li></ol><p>Ein Tipp: Grob nach Metallsorten sortierter Schrott (z. B. <a href=\"/kupfer/\">Kupfer</a>, <a href=\"/aluminium/\">Aluminium</a>, <a href=\"/eisen-schrott/\">Eisen</a>) lässt sich schneller bewerten und bringt in der Regel bessere Preise als <a href=\"/mischschrott/\">Mischschrott</a>.</p>"
+    },
+    {
+      "heading": "Lieber einen Container statt selbst anliefern?",
+      "html": "<p>Kein Problem: Für größere Mengen stellen wir Ihnen einen Container zum Selbstbeladen (5–30 m³) auf – in ganz Berlin und im gesamten Berliner Umland, auch für Baustellen und Gewerbe. Alle Details finden Sie auf unserer Seite <a href=\"/einzugsgebiete/\">Einzugsgebiete</a>. Nach der Befüllung holen wir den <a href=\"/container/\">Container</a> wieder ab. Als geprüfter Entsorgungsfachbetrieb gemäß §56 KrWG sorgen wir dabei für gesetzeskonforme Abläufe und umweltgerechte Verwertung.</p>"
+    }
+  ],
+  "checklist": [
+    "Zentrale Lage im Norden Berlins, nahe der A 111",
+    "Anlieferung ohne Termin: Mo–Fr 8–17 Uhr",
+    "Hilfe beim Abladen durch unser Team",
+    "Sichten, wiegen, direkt auszahlen – bar oder per Überweisung",
+    "Alternativ: Container zum Selbstbeladen (5–30 m³) in Berlin und im gesamten Berliner Umland",
+    "Geprüfter Entsorgungsfachbetrieb (§56 KrWG)"
+  ],
+  "faq": [
+    {
+      "q": "Wo finde ich den Schrottplatz von Peglow in Berlin?",
+      "a": "Sie finden uns in der Soltauer Straße 27-29, 13509 Berlin – im Ortsteil Borsigwalde, Bezirk Reinickendorf. Geben Sie für die Navigation einfach „Soltauer Str. 27-29, 13509 Berlin“ ein. Bei Fragen zur Anfahrt helfen wir gern unter 030 43206315."
+    },
+    {
+      "q": "Brauche ich einen Termin für die Anlieferung?",
+      "a": "Nein, innerhalb unserer Öffnungszeiten – Montag bis Freitag von 8 bis 17 Uhr – können Sie Ihren Schrott jederzeit ohne Termin anliefern. Bei größeren Mengen empfehlen wir eine kurze telefonische Ankündigung unter 030 43206315, damit alles zügig über die Waage geht."
+    },
+    {
+      "q": "Wie läuft die Auszahlung bei der Selbstanlieferung ab?",
+      "a": "Ihr Material wird auf unserem Gelände gesichtet, der Sorte zugeordnet und gewogen. Die Vergütung erfolgt direkt im Anschluss nach tagesaktuellen Preisen – wahlweise in bar oder per Überweisung."
+    },
+    {
+      "q": "Kann Peglow mir auch einen Container stellen?",
+      "a": "Ja. Für größere Mengen stellen wir Ihnen einen Container zum Selbstbeladen (5–30 m³) in ganz Berlin und im gesamten Berliner Umland auf und holen ihn nach der Befüllung wieder ab. Vereinbaren Sie einfach telefonisch einen Termin unter 030 43206315."
+    }
+  ],
+  "service_schema": {
+    "name": "Schrott-Annahme am Schrottplatz Berlin-Reinickendorf",
+    "serviceType": "Annahme und Ankauf von Schrott und Altmetall bei Selbstanlieferung",
+    "description": "Selbstanlieferung von Schrott und Altmetall am Schrottplatz von Peglow Schrott und Metallhandel e.K., Soltauer Straße 27-29, 13509 Berlin-Reinickendorf."
+  },
+  "related": [
+    [
+      "Einzugsgebiete & Container",
+      "/einzugsgebiete/"
+    ],
+    [
+      "Aktuelle Schrottpreise",
+      "/schrottpreise/"
+    ],
+    [
+      "Schrott-Ankauf",
+      "/schrott-ankauf/"
+    ],
+    [
+      "Container mieten",
+      "/container/"
+    ],
+    [
+      "Kontakt",
+      "/kontakt/"
+    ]
+  ],
+  "cta_heading": "Kommen Sie vorbei – wir freuen uns auf Sie!",
+  "cta_text": "Soltauer Straße 27-29, 13509 Berlin-Reinickendorf, Mo–Fr 8–17 Uhr. Fragen zur Anfahrt oder Anlieferung? Rufen Sie an: 030 43206315.",
+  "show_map": true
+}

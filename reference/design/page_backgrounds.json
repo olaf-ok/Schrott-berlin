@@ -1,0 +1,526 @@
+{
+ "eisen-schrott": {
+  "page_id": "452",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/construction-material-grid-metal-35543.webp"
+  ]
+ },
+ "altmetall-ankauf": {
+  "page_id": "1359",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/alloy-aluminum-close-up-1427292.webp"
+  ]
+ },
+ "jobs": {
+  "page_id": "3909",
+  "backgrounds": []
+ },
+ "schrotthandel": {
+  "page_id": "500",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/03/aged-brown-chain-e1557742309913.webp"
+  ]
+ },
+ "brennerschrott": {
+  "page_id": "252",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/anf_item_img2_03.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/anf_item_img_02.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/bremsscheiben.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/moniereisen_01.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/schienen.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/schrott_guss.webp"
+  ]
+ },
+ "metallhandel-berlin": {
+  "page_id": "554",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/03/aged-brown-chain-e1557742309913.webp"
+  ]
+ },
+ "moniereisen": {
+  "page_id": "266",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/bremsscheiben.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/brennerschrott.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/moniereisen_01.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/schienen.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/schrott_guss-1.webp"
+  ]
+ },
+ "blei": {
+  "page_id": "309",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/Alu_Guss_01.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kabel-e1556089444211.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kupfer_milberry.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kupfer_raff.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/messing.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/messing_raff.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/metalle_edelstahl_01.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/zink.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/05/blei-header.webp"
+  ]
+ },
+ "uber-uns": {
+  "page_id": "142",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/03/aged-brown-chain-e1557742309913.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/uberuns.webp"
+  ]
+ },
+ "schrottplatz-charlottenburg": {
+  "page_id": "633",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/alloy-aluminum-close-up-1427292.webp"
+  ]
+ },
+ "messing-schrott": {
+  "page_id": "569",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/03/aged-brown-chain-e1557742309913.webp"
+  ]
+ },
+ "kupfer": {
+  "page_id": "329",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/Alu_Guss_01.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kabel-e1556089444211.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kupfer_milberry.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kupfer_raff.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/messing.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/messing_raff.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/metalle_edelstahl_01.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/zink.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/05/blei-teaser.webp"
+  ]
+ },
+ "schrott-reinickendorf": {
+  "page_id": "521",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/03/abstract-alloy-aluminum-1381938.webp"
+  ]
+ },
+ "schrottplatz-mitte": {
+  "page_id": "645",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/alloy-aluminum-close-up-1427292.webp"
+  ]
+ },
+ "kabel-schrott": {
+  "page_id": "618",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/03/aged-brown-chain-e1557742309913.webp"
+  ]
+ },
+ "guss": {
+  "page_id": "291",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/anf_item_img2_03.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/bremsscheiben.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/brennerschrott.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/moniereisen_01.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/schienen.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/schrott_guss.webp"
+  ]
+ },
+ "messing": {
+  "page_id": "340",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/Alu_Guss_01.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kabel-e1556089444211.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kupfer_milberry.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kupfer_raff.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/messing.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/messing_raff.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/metalle_edelstahl_01.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/zink.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/05/blei-teaser.webp"
+  ]
+ },
+ "schrottplatz-pankow": {
+  "page_id": "479",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/alloy-aluminum-close-up-1427292.webp"
+  ]
+ },
+ "einzugsgebiete": {
+  "page_id": "240",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/abstract-honeycomb-metal-5294.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/bagger2.webp"
+  ]
+ },
+ "schrottplatz-steglitz": {
+  "page_id": "547",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/alloy-aluminum-close-up-1427292.webp"
+  ]
+ },
+ "kabel": {
+  "page_id": "430",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/Alu_Guss_01.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kabel-e1556089444211.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kupfer_milberry.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kupfer_raff.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/messing.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/messing_raff.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/metalle_edelstahl_01.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/zink.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/05/blei-teaser.webp"
+  ]
+ },
+ "schrottplatz-schoeneberg": {
+  "page_id": "489",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/alloy-aluminum-close-up-1427292.webp"
+  ]
+ },
+ "blei-ankauf": {
+  "page_id": "612",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/03/aged-brown-chain-e1557742309913.webp"
+  ]
+ },
+ "edelstahl": {
+  "page_id": "315",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/Alu_Guss_01.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kabel-e1556089444211.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kupfer_milberry.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kupfer_raff.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/messing.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/messing_raff.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/metalle_edelstahl_01.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/zink.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/05/blei-teaser.webp"
+  ]
+ },
+ "kupfer-raff": {
+  "page_id": "334",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/Alu_Guss_01.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kabel-e1556089444211.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kupfer_milberry.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kupfer_raff.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/messing.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/messing_raff.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/metalle_edelstahl_01.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/zink.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/05/blei-teaser.webp"
+  ]
+ },
+ "schienen": {
+  "page_id": "1518",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/anf_item_img2_03.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/bremsscheiben.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/brennerschrott.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/moniereisen_01.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/schrott_guss.webp"
+  ]
+ },
+ "mischschrott": {
+  "page_id": "283",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/anf_item_img2_03.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/bremsscheiben.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/brennerschrott.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/moniereisen_01.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/schienen.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/schrott_guss.webp"
+  ]
+ },
+ "ankauf": {
+  "page_id": "172",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/03/aged-brown-chain-e1557742309913.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/Schere.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kabel-1.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/karte_peglow_01-2.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/schrott_guss-1.webp"
+  ]
+ },
+ "metall-schrott": {
+  "page_id": "628",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/03/aged-brown-chain-e1557742309913.webp"
+  ]
+ },
+ "altmetall-reinickendorf": {
+  "page_id": "623",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/alloy-aluminum-close-up-1427292.webp"
+  ]
+ },
+ "messing-raff": {
+  "page_id": "348",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/Alu_Guss_01.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kabel-e1556089444211.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kupfer_milberry.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kupfer_raff.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/messing.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/messing_raff.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/metalle_edelstahl_01.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/zink.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/05/blei-teaser.webp"
+  ]
+ },
+ "altmetall-berlin": {
+  "page_id": "435",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/aluminum-scrap-e1557150174466.webp"
+  ]
+ },
+ "schrottplatz-berlin": {
+  "page_id": "580",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/construction-material-grid-metal-35543.webp"
+  ]
+ },
+ "schrottplatz-reinickendorf": {
+  "page_id": "588",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/alloy-aluminum-close-up-1427292.webp"
+  ]
+ },
+ "zink-ankauf-berlin": {
+  "page_id": "574",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/alloy-aluminum-close-up-1427292.webp"
+  ]
+ },
+ "zink": {
+  "page_id": "323",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/Alu_Guss_01.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kabel-e1556089444211.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kupfer_milberry.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kupfer_raff.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/messing.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/messing_raff.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/metalle_edelstahl_01.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/zink.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/05/blei-teaser.webp"
+  ]
+ },
+ "container": {
+  "page_id": "89",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/Container.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/alloy-aluminum-close-up-1427292.webp"
+  ]
+ },
+ "schrott-verkaufen": {
+  "page_id": "670",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/03/aged-brown-chain-e1557742309913.webp"
+  ]
+ },
+ "schrottplatz-treptow": {
+  "page_id": "605",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/alloy-aluminum-close-up-1427292.webp"
+  ]
+ },
+ "schrottplatz-wilmersdorf": {
+  "page_id": "653",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/alloy-aluminum-close-up-1427292.webp"
+  ]
+ },
+ "schrottplatz-spandau": {
+  "page_id": "539",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/alloy-aluminum-close-up-1427292.webp"
+  ]
+ },
+ "bremsscheiben": {
+  "page_id": "272",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/anf_item_img2_03.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/bremsscheiben.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/brennerschrott.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/moniereisen_01.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/schienen.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/schrott_guss.webp"
+  ]
+ },
+ "schrottplatz-zehlendorf": {
+  "page_id": "660",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/alloy-aluminum-close-up-1427292.webp"
+  ]
+ },
+ "kupfer-ankauf-berlin": {
+  "page_id": "562",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/03/aged-brown-chain-e1557742309913.webp"
+  ]
+ },
+ "aluminium-guss": {
+  "page_id": "355",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/Alu_Guss.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/Alu_Guss_01.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kabel-e1556089444211.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kupfer_milberry.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kupfer_raff.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/messing.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/messing_raff.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/metalle_edelstahl_01.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/zink.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/05/blei-teaser.webp"
+  ]
+ },
+ "schrottpreise": {
+  "page_id": "24",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kabel-1.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/karte_peglow_01.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/money-2991387_1920.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/schrott_guss-1.webp"
+  ]
+ },
+ "impressum": {
+  "page_id": "3302",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/alloy-aluminum-close-up-1427292.webp"
+  ]
+ },
+ "schrottplatz-friedrichshain": {
+  "page_id": "639",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/alloy-aluminum-close-up-1427292.webp"
+  ]
+ },
+ "aluminium": {
+  "page_id": "302",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/Alu_Guss.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/Alu_Guss_01.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kabel-e1556089444211.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kupfer_milberry.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kupfer_raff.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/messing.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/messing_raff.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/metalle_edelstahl_01.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/zink.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/05/blei-teaser.webp"
+  ]
+ },
+ "anfahrt": {
+  "page_id": "57",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/brown-design-exterior-925728.webp"
+  ]
+ },
+ "schrottplatz-tempelhof": {
+  "page_id": "598",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/alloy-aluminum-close-up-1427292.webp"
+  ]
+ },
+ "schrottplatz-falkensee": {
+  "page_id": "680",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/alloy-aluminum-close-up-1427292.webp"
+  ]
+ },
+ "schrott-ankauf": {
+  "page_id": "187",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/03/aged-brown-chain-e1557742309913.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/anf_item_img2_03.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/bremsscheiben.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/brennerschrott.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/moniereisen_01.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/schienen.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/schrott_guss.webp"
+  ]
+ },
+ "metall-ankauf": {
+  "page_id": "210",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/Alu_Guss_01.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/Gabelstapler-fahren.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/aluminum-scrap-e1557150174466.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kabel-e1556089444211.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kupfer_milberry.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/kupfer_raff.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/messing.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/messing_raff.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/metalle_edelstahl_01.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/zink.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/05/blei-teaser.webp"
+  ]
+ },
+ "schrottplatz-koepenick": {
+  "page_id": "462",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/alloy-aluminum-close-up-1427292.webp"
+  ]
+ },
+ "danke": {
+  "page_id": "3039",
+  "backgrounds": []
+ },
+ "_home": {
+  "page_id": "7",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/Fahrerseite_mit_Container_schraeg_2.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/Gabelstapler-Heizung.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/aktuelle-schrottpreise-berlin.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/anfahrt.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/karte_peglow_01-2.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2020/05/gebaeude311-z.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2020/12/geldschein.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2022/04/aluminum-scrap-1024x683.jpg.webp",
+   "https://schrott-berlin.de/wp-content/uploads/2022/04/schrott-berlin-head-01.webp"
+  ]
+ },
+ "kontakt": {
+  "page_id": "161",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/brown-design-exterior-925728.webp"
+  ]
+ },
+ "altmetall-ankauf-berlin": {
+  "page_id": "1362",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/aluminum-scrap-e1557150174466.webp"
+  ]
+ },
+ "datenschutz": {
+  "page_id": "1617",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/alloy-aluminum-close-up-1427292.webp"
+  ]
+ },
+ "schrottplatz-neukoelln": {
+  "page_id": "469",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/alloy-aluminum-close-up-1427292.webp"
+  ]
+ },
+ "metall-ankauf-berlin": {
+  "page_id": "511",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/03/aged-brown-chain-e1557742309913.webp"
+  ]
+ },
+ "peglow-schrott": {
+  "page_id": "674",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/abstract-art-artistic-332834.webp"
+  ]
+ },
+ "schrottplatz-kreuzberg": {
+  "page_id": "530",
+  "backgrounds": [
+   "https://schrott-berlin.de/wp-content/uploads/2019/04/alloy-aluminum-close-up-1427292.webp"
+  ]
+ }
+}

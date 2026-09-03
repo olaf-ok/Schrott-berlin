@@ -1,0 +1,55 @@
+{
+  "path": "/jobs/",
+  "template": "jobs",
+  "title": "Jobs bei Peglow: Stellenangebote Schrotthandel Berlin",
+  "meta_description": "Aktuelle Stellenausschreibungen bei Peglow Schrott und Metall in Berlin-Reinickendorf: Platzmitarbeiter & Berufskraftfahrer (m/w/d). Jetzt online bewerben!",
+  "h1": "Jobs bei Peglow – aktuelle Stellenausschreibungen",
+  "hero_kicker": "Arbeiten im Familienunternehmen",
+  "hero_text": "Unbefristete Stellen, faire Bezahlung und geregelte Arbeitszeiten von Montag bis Freitag – werden Sie Teil unseres Teams in Berlin-Reinickendorf.",
+  "hero_image": "Gabelstapler-fahren.webp",
+  "breadcrumb": [["Startseite", "/"], ["Jobs", "/jobs/"]],
+  "intro": "<p>Peglow Schrott und Metallhandel e.K. in Berlin-Reinickendorf sucht Verstärkung: Aktuell sind bei uns die Stellen <strong>Platzmitarbeiter (m/w/d) in Vollzeit</strong> und <strong>Berufskraftfahrer (m/w/d)</strong> ausgeschrieben. Es erwartet Sie ein unbefristetes Arbeitsverhältnis in einem wachsenden Familienunternehmen mit fairer Bezahlung, geregelten Arbeitszeiten von Montag bis Freitag und abwechslungsreichen Aufgaben. Bewerbungen senden Sie per E-Mail an info@schrott-berlin.de oder über unser Online-Bewerbungsformular.</p>",
+  "sections": [
+    {
+      "heading": "Platzmitarbeiter (m/w/d) in Vollzeit",
+      "html": "<p>Sie haben ein Faible für Recycling und möchten in einem dynamischen Team arbeiten? Wir suchen einen engagierten Platzmitarbeiter (m/w/d) in Vollzeit, der bei der Annahme, Sortierung und Weiterverarbeitung von Schrott und Metallen unterstützt.</p><p><strong>Ihre Aufgaben:</strong></p><ul><li>Annahme von Schrott und Metallen</li><li>Sortieren und Vorbereiten der Materialien zur Weiterverarbeitung, u. a. Metall und Kabel sortieren und trennen</li><li>Be- und Entladen der firmeneigenen und fremden Fahrzeuge mit Stapler und Bagger</li><li>Verwiegung von ein- und ausgehenden Materialien</li><li>Definieren der verschiedenen Materialien</li></ul><p><strong>Ihr Profil:</strong></p><ul><li>Abgeschlossene Berufsausbildung, gerne aus dem Recycling oder handwerklichen Bereich</li><li>Mindestens ein Hauptschulabschluss</li><li>Im Besitz eines Staplerscheins</li></ul><p><strong>Ihre Stärken:</strong> Einsatzbereitschaft, Flexibilität, kundenorientiertes Denken, Freundlichkeit, Teamfähigkeit und Zuverlässigkeit.</p><p><strong>Wir bieten:</strong></p><ul><li>Eine unbefristete Vollzeitanstellung</li><li>Eine leistungsgerechte Bezahlung</li><li>Arbeitszeiten Montag bis Freitag</li><li>Ein interessantes und vielseitiges Aufgabengebiet in einem wachstumsorientierten Familienunternehmen</li></ul>"
+    },
+    {
+      "heading": "Berufskraftfahrer (m/w/d)",
+      "html": "<p>Sie besitzen einen Führerschein der Klassen C/CE inklusive gültiger 95-Eintragung und arbeiten gerne verantwortungsbewusst im direkten Kundenkontakt? Dann suchen wir genau Sie: einen zuverlässigen Kraftfahrer (m/w/d) in Vollzeit für den Transport von Schrott und Metallen.</p><p><strong>Ihre Aufgaben:</strong></p><ul><li>Transport von Schrott und Metallen</li></ul><p><strong>Ihr Profil:</strong></p><ul><li>Führerschein Klasse C/CE</li><li>Gültige 95-Eintragung</li></ul><p><strong>Ihre Stärken:</strong> Einsatzbereitschaft, Flexibilität, kundenorientiertes Denken, Freundlichkeit, Teamfähigkeit und Zuverlässigkeit.</p><p><strong>Wir bieten:</strong></p><ul><li>Eine unbefristete Vollzeitanstellung</li><li>Übertarifliche Bezahlung</li><li>Arbeitszeiten Montag bis Freitag</li><li>Ein stabiles Arbeitsumfeld</li></ul>"
+    },
+    {
+      "heading": "So bewerben Sie sich bei uns",
+      "html": "<p>Nutzen Sie unser Online-Bewerbungsformular und bewerben Sie sich schnell und unkompliziert auf die ausgeschriebene Stelle – einfach ausfüllen, bis zu drei PDF-Dateien (max. 10 MB) hochladen und absenden. Alternativ senden Sie Ihre Bewerbung per E-Mail an <strong>info@schrott-berlin.de</strong>.</p><p>Ihr Arbeitsplatz wäre unser Schrottplatz in der Soltauer Straße 27-29, 13509 Berlin-Reinickendorf – die <a href=\"/anfahrt/\">Anfahrt</a> ist unkompliziert. Wer wir sind und wie es bei uns zugeht, lesen Sie auf der Seite <a href=\"/uber-uns/\">Über uns</a>; einen Überblick über unsere Arbeit geben die Seiten <a href=\"/schrott-ankauf/\">Schrott-Ankauf</a> und <a href=\"/container/\">Containerdienst</a>. Wir freuen uns auf Ihre Bewerbung!</p>"
+    }
+  ],
+  "checklist": [
+    "Unbefristete Vollzeitanstellung",
+    "Faire bzw. übertarifliche Bezahlung",
+    "Geregelte Arbeitszeiten: Montag bis Freitag",
+    "Abwechslungsreiche Aufgaben rund um Schrott und Metall",
+    "Wachsendes Familienunternehmen in Berlin-Reinickendorf"
+  ],
+  "faq": [
+    {
+      "q": "Welche Stellen sind bei Peglow aktuell ausgeschrieben?",
+      "a": "Derzeit suchen wir einen Platzmitarbeiter (m/w/d) in Vollzeit für Annahme, Sortierung und Weiterverarbeitung von Schrott und Metallen sowie einen Berufskraftfahrer (m/w/d) mit Führerschein C/CE und 95-Eintragung für den Transport von Schrott und Metallen. Beide Stellen sind unbefristete Vollzeitanstellungen."
+    },
+    {
+      "q": "Wie kann ich mich bei Peglow bewerben?",
+      "a": "Am einfachsten über unser Online-Bewerbungsformular: Stelle auswählen, Kontaktdaten eintragen, bis zu drei PDF-Dateien (max. 10 MB) hochladen und absenden. Alternativ senden Sie Ihre Bewerbungsunterlagen per E-Mail an info@schrott-berlin.de."
+    },
+    {
+      "q": "Welche Arbeitszeiten erwarten mich bei Peglow?",
+      "a": "Unsere Arbeitszeiten liegen von Montag bis Freitag – das Wochenende gehört Ihnen. Der Arbeitsort ist unser Schrottplatz in der Soltauer Straße 27-29, 13509 Berlin, im Bezirk Reinickendorf."
+    }
+  ],
+  "related": [
+    ["Über uns", "/uber-uns/"],
+    ["Anfahrt", "/anfahrt/"],
+    ["Peglow Schrott & Metall", "/peglow-schrott/"],
+    ["Kontakt", "/kontakt/"]
+  ],
+  "cta_heading": "Jetzt bewerben – wir freuen uns auf Sie!",
+  "cta_text": "Senden Sie Ihre Bewerbung an info@schrott-berlin.de oder nutzen Sie unser Online-Bewerbungsformular. Fragen? Rufen Sie an: 030 43206315."
+}

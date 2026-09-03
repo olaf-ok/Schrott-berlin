@@ -1,0 +1,301 @@
+{
+  "domain": "https://schrott-berlin.de",
+  "site_name": "Peglow Schrott und Metall",
+  "company": {
+    "legal_name": "Peglow Schrott und Metallhandel e.K.",
+    "brand": "Peglow Schrott & Metall",
+    "owner": "Philip Peglow",
+    "vat_id": "DE458291881",
+    "street": "Soltauer Straße 27-29",
+    "zip": "13509",
+    "city": "Berlin",
+    "district": "Reinickendorf",
+    "phone": "030 43206315",
+    "phone_intl": "+493043206315",
+    "phone_display": "030 - 43 20 63 15",
+    "fax": "030 43206316",
+    "fax_intl": "+493043206316",
+    "whatsapp": "0175 769 17 18",
+    "whatsapp_intl": "+491757691718",
+    "email": "info@schrott-berlin.de",
+    "opening": "Mo–Fr: 8:00–17:00 Uhr",
+    "opening_schema": "Mo-Fr 08:00-17:00",
+    "geo": {
+      "lat": 52.5877,
+      "lng": 13.3126
+    },
+    "sameAs": [
+      "https://www.facebook.com/PeglowSchrott/",
+      "https://www.instagram.com/peglow_schrott/"
+    ],
+    "certificates": [
+      "Geprüfter Entsorgungsfachbetrieb zur Lagerung gemäß §56 KrWG – OEControl Nr. OETH11012021",
+      "Geprüfter Entsorgungsfachbetrieb für abfallwirtschaftliche Tätigkeiten gemäß §56 KrWG – OEControl Nr. OEEW11012025"
+    ]
+  },
+  "nav": [
+    [
+      "Schrotthandel",
+      "/schrotthandel/"
+    ],
+    [
+      "Schrott-Ankauf",
+      "/schrott-ankauf/"
+    ],
+    [
+      "Metall-Ankauf",
+      "/metall-ankauf/"
+    ],
+    [
+      "Schrottpreise",
+      "/schrottpreise/"
+    ],
+    [
+      "Container",
+      "/container/"
+    ],
+    [
+      "Einzugsgebiete",
+      "/einzugsgebiete/"
+    ],
+    [
+      "Anfahrt",
+      "/anfahrt/"
+    ],
+    [
+      "Über uns",
+      "/uber-uns/"
+    ],
+    [
+      "Jobs",
+      "/jobs/"
+    ],
+    [
+      "Kontakt",
+      "/kontakt/"
+    ]
+  ],
+  "footer_cols": [
+    {
+      "title": "Metall-Ankauf",
+      "links": [
+        [
+          "Kupfer",
+          "/kupfer/"
+        ],
+        [
+          "Messing",
+          "/messing/"
+        ],
+        [
+          "Zink",
+          "/zink/"
+        ],
+        [
+          "Blei",
+          "/blei/"
+        ],
+        [
+          "Aluminium",
+          "/aluminium/"
+        ],
+        [
+          "Edelstahl",
+          "/edelstahl/"
+        ],
+        [
+          "Kabel",
+          "/kabel/"
+        ],
+        [
+          "Eisen",
+          "/eisen-schrott/"
+        ],
+        [
+          "Guss",
+          "/guss/"
+        ],
+        [
+          "Mischschrott",
+          "/mischschrott/"
+        ],
+        [
+          "Metall-Schrott",
+          "/metall-schrott/"
+        ],
+        [
+          "Alle Metalle",
+          "/metall-ankauf/"
+        ]
+      ]
+    },
+    {
+      "title": "Schrottplatz nach Bezirk",
+      "links": [
+        [
+          "Berlin",
+          "/schrottplatz-berlin/"
+        ],
+        [
+          "Charlottenburg",
+          "/schrottplatz-charlottenburg/"
+        ],
+        [
+          "Friedrichshain",
+          "/schrottplatz-friedrichshain/"
+        ],
+        [
+          "Köpenick",
+          "/schrottplatz-koepenick/"
+        ],
+        [
+          "Kreuzberg",
+          "/schrottplatz-kreuzberg/"
+        ],
+        [
+          "Mitte",
+          "/schrottplatz-mitte/"
+        ],
+        [
+          "Neukölln",
+          "/schrottplatz-neukoelln/"
+        ],
+        [
+          "Pankow",
+          "/schrottplatz-pankow/"
+        ],
+        [
+          "Reinickendorf",
+          "/schrottplatz-reinickendorf/"
+        ],
+        [
+          "Schöneberg",
+          "/schrottplatz-schoeneberg/"
+        ],
+        [
+          "Spandau",
+          "/schrottplatz-spandau/"
+        ],
+        [
+          "Steglitz",
+          "/schrottplatz-steglitz/"
+        ],
+        [
+          "Tempelhof",
+          "/schrottplatz-tempelhof/"
+        ],
+        [
+          "Treptow",
+          "/schrottplatz-treptow/"
+        ],
+        [
+          "Wilmersdorf",
+          "/schrottplatz-wilmersdorf/"
+        ],
+        [
+          "Zehlendorf",
+          "/schrottplatz-zehlendorf/"
+        ],
+        [
+          "Falkensee",
+          "/schrottplatz-falkensee/"
+        ]
+      ]
+    },
+    {
+      "title": "Ankauf & Service",
+      "links": [
+        [
+          "Schrott-Ankauf",
+          "/schrott-ankauf/"
+        ],
+        [
+          "Altmetall-Ankauf",
+          "/altmetall-ankauf/"
+        ],
+        [
+          "Altmetall Berlin",
+          "/altmetall-berlin/"
+        ],
+        [
+          "Schrott verkaufen",
+          "/schrott-verkaufen/"
+        ],
+        [
+          "Schrotthandel",
+          "/schrotthandel/"
+        ],
+        [
+          "Metallhandel Berlin",
+          "/metallhandel-berlin/"
+        ],
+        [
+          "Schrottpreise",
+          "/schrottpreise/"
+        ],
+        [
+          "Container mieten",
+          "/container/"
+        ],
+        [
+          "Einzugsgebiete",
+          "/einzugsgebiete/"
+        ],
+        [
+          "Anfahrt",
+          "/anfahrt/"
+        ],
+        [
+          "Jobs",
+          "/jobs/"
+        ],
+        [
+          "Kontakt",
+          "/kontakt/"
+        ]
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Marcel Lehmann",
+      "stars": 5,
+      "text": "Alles bestens gerne wieder 👍"
+    },
+    {
+      "name": "Ralf Bojasch",
+      "stars": 5,
+      "text": "Gut und günstig"
+    },
+    {
+      "name": "Michi Keks",
+      "stars": 5,
+      "text": "Die Angestellten sind immer freundlich und hilfsbereit. Ist meiner Meinung nach der beste in der Umgebung und wir werden immer wieder gerne den Weg auf uns nehmen."
+    },
+    {
+      "name": "Julia Trinh",
+      "stars": 5,
+      "text": "Wirklich toller und professioneller Service. Stets hilfsbereit und immer sehr bemüht. Wir waren sehr zufrieden"
+    },
+    {
+      "name": "Ghulam Reza Joya",
+      "stars": 5,
+      "text": "Top Kundenfreundlichkeit ! Guter Service"
+    },
+    {
+      "name": "J M",
+      "stars": 5,
+      "text": "Also wärend die Jungs noch dabei sind den Schrott zu wiegen muss ich jetzt die Rezension schreiben. Ich finde Schrottplätze an sich nicht so dolle... aber hier war es mal ein Erlebnis POSITIV. Freundliches Personal Super hilfsbereit gewesen, also wir kommen gerne wieder . Vielen vielen lieben Dank Macht weiter so"
+    },
+    {
+      "name": "Mi Chael",
+      "stars": 5,
+      "text": "Super Team und faire Preise"
+    }
+  ],
+  "reviews_link": "https://www.google.com/maps/search/?api=1&query=Peglow+Schrott+und+Metallhandel+e.K.+Soltauer+Stra%C3%9Fe+27-29+13509+Berlin",
+  "umami": {
+    "src": "https://cloud.umami.is/script.js",
+    "website_id": "45a317fa-d574-44ad-a0a6-168a7bc6a133"
+  }
+}

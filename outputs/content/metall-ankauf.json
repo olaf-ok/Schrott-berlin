@@ -1,0 +1,154 @@
+{
+ "path": "/metall-ankauf/",
+ "template": "landing",
+ "title": "Metall-Ankauf: Blei, Zink, Kupfer, Kabel uvm. | Peglow",
+ "meta_description": "Metall-Ankauf bei Peglow in Berlin: alle Metallsorten von Aluminium bis Zink im Überblick – mit Infos zu jeder Sorte und fairen Preisen. ☎ 030 43206315",
+ "h1": "Metall-Ankauf: Diese Metallsorten kaufen wir an",
+ "hero_kicker": "Peglow Schrott und Metall, Berlin-Reinickendorf",
+ "hero_text": "Von Aluminium bis Zink: Hier finden Sie die Übersicht über alle Metallsorten, die wir gerne von Ihnen abnehmen – mit Details zu jeder Sorte.",
+ "hero_image": "kupfer_milberry.webp",
+ "breadcrumb": [
+  [
+   "Startseite",
+   "/"
+  ],
+  [
+   "Metall-Ankauf",
+   "/metall-ankauf/"
+  ]
+ ],
+ "intro": "<p>Der Metall-Ankauf von Peglow Schrott und Metallhandel e.K. in Berlin-Reinickendorf umfasst alle gängigen Metallsorten: Aluminium, Blei, Edelstahl, Zink, Kupfer, Kupfer-Raff, Messing, Messing-Raff, Aluminium-Guss und Kabel. Jede Sorte wird auf unserem Schrottplatz in der Soltauer Straße 27-29 fachkundig bestimmt, präzise gewogen und nach tagesaktuellen Preisen vergütet. Auf dieser Seite finden Sie die Übersicht – jede Metallsorte hat zudem eine eigene Detailseite mit allen Infos.</p>",
+ "sections": [
+  {
+   "heading": "Welche Metallsorten nehmen wir an?",
+   "html": "<p>Hier die Übersicht über die Metallsorten, die wir gerne von Ihnen abnehmen – klicken Sie auf eine Sorte für Details:</p><ul><li><a href=\"/aluminium/\">Aluminium</a> – Bleche, Profile, Felgen</li><li><a href=\"/aluminium-guss/\">Aluminium-Guss</a> – Gussteile aus Alu</li><li><a href=\"/blei/\">Blei</a> – Rohre, Bleche, Gewichte</li><li><a href=\"/edelstahl/\">Edelstahl</a> – V2A/V4A, Spülen, Geländer</li><li><a href=\"/zink/\">Zink</a> – Dachrinnen, Fallrohre</li><li><a href=\"/kupfer/\">Kupfer</a> (Millberry) – blanker Kupferdraht</li><li><a href=\"/kupfer-raff/\">Kupfer-Raff</a> – Rohre, Bleche mit Anhaftungen</li><li><a href=\"/messing/\">Messing</a> – Armaturen, Beschläge</li><li><a href=\"/messing-raff/\">Messing-Raff</a> – Messing mit Fremdanteilen</li><li><a href=\"/kabel/\">Kabel</a> – Leitungen aller Art</li></ul>"
+  },
+  {
+   "heading": "Warum werden Metalle nach Sorten getrennt vergütet?",
+   "html": "<p>Jedes Metall hat seinen eigenen Marktwert: Kupfer notiert deutlich höher als Aluminium, sortenreines Material höher als vermischtes. Deshalb unterscheiden wir zum Beispiel zwischen blankem Kupfer (Millberry) und Kupfer-Raff oder zwischen Messing und Messing-Raff. Wer seine Metalle getrennt anliefert, bekommt für jede Sorte den passenden Tagespreis – das zahlt sich aus. Gemischtes Material kaufen wir als <a href=\"/mischschrott/\">Mischschrott</a> ebenfalls an.</p>"
+  },
+  {
+   "heading": "So läuft der Metall-Ankauf bei Peglow ab",
+   "html": "<ol><li>Metall anliefern – oder ab größeren Mengen den <a href=\"/altmetall-ankauf-berlin/\">Container zum Selbstbeladen in Berlin</a> nutzen</li><li>Fachkundige Materialbestimmung durch unser Team</li><li>Präzises Wiegen, gern in Ihrem Beisein</li><li>Vergütung nach tagesaktuellen Preisen – bar auf die Hand</li></ol><p>Was Ihr Metall heute wert ist, sehen Sie unter <a href=\"/schrottpreise/\">Schrottpreise</a> oder erfragen es unter 030 43206315.</p>"
+  },
+  {
+   "heading": "Nicht sicher, welches Metall Sie haben?",
+   "html": "<p>Kein Problem: Bringen Sie Ihr Material einfach mit – unser Team bestimmt die Sorte direkt vor Ort und erklärt Ihnen die Einordnung. Auch <a href=\"/eisen-schrott/\">Eisenschrott</a> und komplette Schrottsorten wie <a href=\"/guss/\">Guss</a> oder <a href=\"/brennerschrott/\">Brennerschrott</a> nehmen wir an – siehe <a href=\"/schrott-ankauf/\">Schrott Ankauf</a>. Als geprüfter Entsorgungsfachbetrieb gemäß §56 KrWG sorgen wir anschließend für die umweltgerechte Verwertung.</p>"
+  }
+ ],
+ "checklist": [
+  "Zehn Metallsorten im direkten Ankauf",
+  "Fachkundige Materialbestimmung vor Ort",
+  "Getrennte Vergütung je Sorte – fair und transparent",
+  "Tagesaktuelle Preise",
+  "Auch Mischschrott und Eisenschrott willkommen",
+  "Mo–Fr 8:00–17:00 Uhr in Berlin-Reinickendorf"
+ ],
+ "table": {
+  "caption": "Metallsorten im Ankauf bei Peglow",
+  "head": [
+   "Metallsorte",
+   "Typische Beispiele",
+   "Preis"
+  ],
+  "rows": [
+   [
+    "Aluminium",
+    "Bleche, Profile, Felgen",
+    "tagesaktuell auf Anfrage"
+   ],
+   [
+    "Aluminium-Guss",
+    "Motorenteile, Gehäuse",
+    "tagesaktuell auf Anfrage"
+   ],
+   [
+    "Blei",
+    "Rohre, Bleche, Gewichte",
+    "tagesaktuell auf Anfrage"
+   ],
+   [
+    "Edelstahl",
+    "Spülen, Geländer, Behälter",
+    "tagesaktuell auf Anfrage"
+   ],
+   [
+    "Zink",
+    "Dachrinnen, Fallrohre",
+    "tagesaktuell auf Anfrage"
+   ],
+   [
+    "Kupfer (Millberry)",
+    "blanker Kupferdraht",
+    "tagesaktuell auf Anfrage"
+   ],
+   [
+    "Kupfer-Raff",
+    "Rohre, Bleche mit Anhaftungen",
+    "tagesaktuell auf Anfrage"
+   ],
+   [
+    "Messing",
+    "Armaturen, Beschläge",
+    "tagesaktuell auf Anfrage"
+   ],
+   [
+    "Messing-Raff",
+    "Messing mit Fremdanteilen",
+    "tagesaktuell auf Anfrage"
+   ],
+   [
+    "Kabel",
+    "Stromkabel, Leitungen",
+    "tagesaktuell auf Anfrage"
+   ]
+  ]
+ },
+ "faq": [
+  {
+   "q": "Welche Metallsorten kauft Peglow an?",
+   "a": "Wir kaufen Aluminium, Aluminium-Guss, Blei, Edelstahl, Zink, Kupfer (Millberry), Kupfer-Raff, Messing, Messing-Raff und Kabel an – dazu Eisenschrott, Guss und Mischschrott. Jede Sorte wird einzeln bestimmt und nach ihrem Tagespreis vergütet."
+  },
+  {
+   "q": "Woher weiß ich, welches Metall ich habe?",
+   "a": "Ein paar Anhaltspunkte: Kupfer ist rötlich, Messing gelblich, Aluminium sehr leicht, Edelstahl rostet nicht und Zink findet sich oft an Dachrinnen. Sicher bestimmen muss man es aber nicht selbst – unser Team ordnet Ihr Material beim Ankauf fachkundig ein."
+  },
+  {
+   "q": "Was bedeutet 'Raff' bei Kupfer und Messing?",
+   "a": "Raff bezeichnet Material, das nicht blank und sortenrein ist – etwa Kupferrohre mit Lötstellen oder Messing mit Anhaftungen und Fremdanteilen. Es wird etwas niedriger vergütet als blankes Metall, ist aber trotzdem bares Geld wert."
+  },
+  {
+   "q": "Wo finde ich die aktuellen Metall-Ankaufspreise?",
+   "a": "Metallpreise ändern sich täglich mit den Börsenkursen, deshalb veröffentlichen wir keine festen Preislisten. Einen Überblick gibt unsere Seite Schrottpreise; den konkreten Tagespreis für Ihre Sorte erfragen Sie unter 030 43206315."
+  }
+ ],
+ "service_schema": {
+  "name": "Metall-Ankauf",
+  "serviceType": "Ankauf von Metallen aller Sorten",
+  "description": "Ankauf von Aluminium, Blei, Edelstahl, Zink, Kupfer, Messing und Kabeln bei Peglow in Berlin-Reinickendorf – getrennt vergütet nach Tagespreis."
+ },
+ "related": [
+  [
+   "Metall Ankauf Berlin – Ablauf & Service",
+   "/metall-ankauf-berlin/"
+  ],
+  [
+   "Schrott Ankauf",
+   "/schrott-ankauf/"
+  ],
+  [
+   "Aktuelle Schrottpreise",
+   "/schrottpreise/"
+  ],
+  [
+   "Kupfer Ankauf Berlin",
+   "/kupfer-ankauf-berlin/"
+  ],
+  [
+   "Anfahrt",
+   "/anfahrt/"
+  ]
+ ],
+ "cta_heading": "Metall zu verkaufen? Wir sind für Sie da!",
+ "cta_text": "030 43206315 – Montag bis Freitag von 8:00 bis 17:00 Uhr. Oder direkt vorbeikommen: Soltauer Straße 27-29, 13509 Berlin."
+}

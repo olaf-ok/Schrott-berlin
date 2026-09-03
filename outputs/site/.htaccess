@@ -1,0 +1,19 @@
+# schrott-berlin.de – statische Site (Relaunch 2026)
+AddDefaultCharset UTF-8
+ErrorDocument 404 /404.html
+
+# Browser-Caching für statische Assets
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/webp "access plus 30 days"
+  ExpiresByType image/png "access plus 30 days"
+  ExpiresByType image/jpeg "access plus 30 days"
+  ExpiresByType image/svg+xml "access plus 30 days"
+  ExpiresByType font/woff2 "access plus 365 days"
+  ExpiresByType text/css "access plus 7 days"
+</IfModule>
+
+# Vorschau-Domain nicht indexieren (deaktiviert sich bei Domain-Umstellung von selbst)
+<If "%{HTTP_HOST} == 'neu.schrott-berlin.de'">
+  Header set X-Robots-Tag "noindex, nofollow"
+</If>

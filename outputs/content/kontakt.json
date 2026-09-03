@@ -1,0 +1,77 @@
+{
+  "path": "/kontakt/",
+  "template": "contact",
+  "title": "Kontakt | Peglow Schrott und Metall Berlin-Reinickendorf",
+  "meta_description": "Kontakt zu Peglow Schrott und Metall in Berlin-Reinickendorf: ☎ 030 43206315, WhatsApp 0175 769 17 18, info@schrott-berlin.de. Mo–Fr 8–17 Uhr geöffnet.",
+  "h1": "Kontakt – so erreichen Sie Peglow Schrott und Metall",
+  "hero_kicker": "Schrottplatz Berlin-Reinickendorf",
+  "hero_text": "Fragen zu Preisen, Containern oder Selbstanlieferung? Rufen Sie an, schreiben Sie uns oder kommen Sie einfach vorbei – wir sind für Sie da.",
+  "hero_image": "brown-design-exterior-925728.webp",
+  "breadcrumb": [
+    [
+      "Startseite",
+      "/"
+    ],
+    [
+      "Kontakt",
+      "/kontakt/"
+    ]
+  ],
+  "intro": "<p>Sie möchten Schrott oder Metall verkaufen oder einen Container bestellen? Peglow Schrott und Metallhandel e.K. erreichen Sie telefonisch unter 030 43206315, per WhatsApp unter 0175 769 17 18 oder per E-Mail an info@schrott-berlin.de. Unser Schrottplatz in der Soltauer Straße 27-29 in Berlin-Reinickendorf ist Montag bis Freitag von 8 bis 17 Uhr für Sie geöffnet.</p>",
+  "sections": [
+    {
+      "heading": "Kontaktdaten auf einen Blick",
+      "html": "<p><strong>Peglow Schrott und Metallhandel e.K.</strong><br>Soltauer Straße 27-29<br>13509 Berlin (Reinickendorf)</p><p><strong>Telefon:</strong> 030 - 43 20 63 15<br><strong>Fax:</strong> 030 - 43 20 63 16<br><strong>WhatsApp:</strong> 0175 769 17 18<br><strong>E-Mail:</strong> info@schrott-berlin.de</p><p><strong>Öffnungszeiten:</strong> Montag bis Freitag von 8:00 bis 17:00 Uhr, Samstag und Sonntag geschlossen.</p><p>Wie Sie unseren Schrottplatz am besten erreichen, zeigt Ihnen unsere <a href=\"/anfahrt/\">Anfahrtsbeschreibung</a>.</p>"
+    },
+    {
+      "heading": "Schreiben Sie uns über das Kontaktformular",
+      "html": "<p>Sie erreichen uns auch bequem über unser Kontaktformular: Tragen Sie einfach Ihren Namen, Ihre E-Mail-Adresse, einen Betreff und Ihre Nachricht ein und bestätigen Sie die Datenschutz-Checkbox – wir melden uns schnellstmöglich bei Ihnen zurück. Hinweise zum Umgang mit Ihren Daten finden Sie in unserer <a href=\"/datenschutz/\">Datenschutzerklärung</a>.</p>"
+    },
+    {
+      "heading": "Worum geht es bei Ihrer Anfrage?",
+      "html": "<p>Damit wir Ihnen schnell weiterhelfen können, hier die passenden Infos vorab:</p><ul><li><strong>Preisanfrage:</strong> Schrott- und Metallpreise ändern sich täglich – aktuelle Hinweise finden Sie unter <a href=\"/schrottpreise/\">Schrottpreise</a>, den Tageskurs nennen wir Ihnen am Telefon.</li><li><strong>Container zum Selbstbeladen (5–30 m³):</strong> Wir stellen Ihnen einen Absetz- oder Abrollcontainer auf, Sie beladen ihn selbst, wir holen ihn wieder ab – Details unter <a href=\"/container/\">Containerdienst</a> und <a href=\"/einzugsgebiete/\">Einzugsgebiete</a>.</li><li><strong>Selbstanlieferung:</strong> Kommen Sie einfach zu den Öffnungszeiten auf unseren <a href=\"/schrottplatz-reinickendorf/\">Schrottplatz in Reinickendorf</a> – auch mit Kleinmengen.</li></ul>"
+    }
+  ],
+  "checklist": [
+    "Telefonisch erreichbar Mo–Fr von 8 bis 17 Uhr",
+    "WhatsApp für schnelle Anfragen und Fotos: 0175 769 17 18",
+    "Antwort auf E-Mails und Formular-Anfragen schnellstmöglich",
+    "Schrottplatz mit Selbstanlieferung in Berlin-Reinickendorf",
+    "Beratung zu Preisen und Containern inklusive"
+  ],
+  "faq": [
+    {
+      "q": "Wie erreiche ich Peglow am schnellsten?",
+      "a": "Am schnellsten telefonisch unter 030 43206315 – Montag bis Freitag von 8 bis 17 Uhr. Alternativ schreiben Sie uns per WhatsApp an 0175 769 17 18 oder per E-Mail an info@schrott-berlin.de; wir melden uns schnellstmöglich zurück."
+    },
+    {
+      "q": "Kann ich per WhatsApp Fotos von meinem Schrott schicken?",
+      "a": "Ja, gern. Schicken Sie Fotos Ihres Materials einfach per WhatsApp an 0175 769 17 18. So können wir Ihr Material vorab einschätzen und Ihnen schneller sagen, was es tagesaktuell wert ist."
+    },
+    {
+      "q": "Wann ist der Schrottplatz von Peglow geöffnet?",
+      "a": "Unser Schrottplatz in der Soltauer Straße 27-29, 13509 Berlin-Reinickendorf, ist Montag bis Freitag von 8 bis 17 Uhr geöffnet. Samstag und Sonntag ist geschlossen. In dieser Zeit können Sie Schrott und Metalle auch ohne Termin anliefern."
+    }
+  ],
+  "related": [
+    [
+      "Anfahrt zum Schrottplatz",
+      "/anfahrt/"
+    ],
+    [
+      "Aktuelle Schrottpreise",
+      "/schrottpreise/"
+    ],
+    [
+      "Einzugsgebiete",
+      "/einzugsgebiete/"
+    ],
+    [
+      "Containerdienst",
+      "/container/"
+    ]
+  ],
+  "cta_heading": "Wir freuen uns auf Ihren Schrott!",
+  "cta_text": "Rufen Sie uns an unter 030 43206315 oder kommen Sie direkt vorbei – Soltauer Straße 27-29, 13509 Berlin-Reinickendorf, Mo–Fr 8–17 Uhr.",
+  "show_map": true
+}

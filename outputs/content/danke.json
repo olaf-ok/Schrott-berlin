@@ -1,0 +1,22 @@
+{
+  "path": "/danke/",
+  "template": "danke",
+  "title": "Danke für Ihre Nachricht | Peglow Schrott und Metall",
+  "meta_description": "Vielen Dank für Ihre Nachricht an Peglow Schrott und Metall in Berlin – wir melden uns schnellstmöglich bei Ihnen zurück.",
+  "h1": "Danke! Ihre Nachricht hat uns erreicht.",
+  "hero_kicker": "Peglow Schrott und Metallhandel e.K.",
+  "hero_text": "Wir bearbeiten Ihre Anfrage so schnell wie möglich und setzen uns mit Ihnen in Verbindung.",
+  "hero_image": "brown-design-exterior-925728.webp",
+  "breadcrumb": [["Startseite", "/"], ["Danke", "/danke/"]],
+  "intro": "<p>Vielen Dank für Ihre Nachricht – wir melden uns schnellstmöglich bei Ihnen zurück. Wenn es eilt, erreichen Sie uns Montag bis Freitag von 8 bis 17 Uhr auch telefonisch unter 030 43206315.</p>",
+  "sections": [
+    {
+      "heading": "Wie geht es jetzt weiter?",
+      "html": "<p>Ihre Anfrage ist bei uns eingegangen und wird so schnell wie möglich bearbeitet – wir setzen uns dann mit Ihnen in Verbindung. In der Zwischenzeit können Sie sich gern weiter umsehen:</p><ul><li>Zurück zur <a href=\"/\">Startseite</a></li><li>Aktuelle Hinweise zu unseren <a href=\"/schrottpreise/\">Schrottpreisen</a></li></ul><p>Ihr PEGLOW-Team</p>"
+    }
+  ],
+  "related": [
+    ["Startseite", "/"],
+    ["Aktuelle Schrottpreise", "/schrottpreise/"]
+  ]
+}

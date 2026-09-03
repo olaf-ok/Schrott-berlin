@@ -1,0 +1,123 @@
+{
+  "path": "/blei-ankauf/",
+  "template": "material",
+  "title": "Blei Ankauf Berlin | Peglow Schrott und Metallhandel",
+  "meta_description": "Blei verkaufen in Berlin: Anliefern in Reinickendorf oder Container zum Selbstbeladen – Peglow zahlt fair nach Tagespreis. ☎ 030 43206315",
+  "h1": "Blei-Ankauf in Berlin: verkaufen leicht gemacht",
+  "hero_kicker": "Ankauf zu tagesaktuellen Preisen",
+  "hero_text": "Sie haben Bleischrott und wollen ihn zu Geld machen? Bei uns geht das ohne Umwege: anliefern oder Container bestellen, wiegen, auszahlen.",
+  "hero_image": "blei-teaser.webp",
+  "breadcrumb": [
+    [
+      "Startseite",
+      "/"
+    ],
+    [
+      "Metall-Ankauf",
+      "/metall-ankauf/"
+    ],
+    [
+      "Blei-Ankauf",
+      "/blei-ankauf/"
+    ]
+  ],
+  "intro": "<p>Blei verkaufen in Berlin funktioniert bei Peglow Schrott und Metallhandel e.K. auf zwei Wegen: Sie liefern Ihren Bleischrott selbst an unserem Schrottplatz in der Soltauer Straße 27-29 in Reinickendorf an, oder wir stellen Ihnen für größere Mengen einen Container zum Selbstbeladen (5–30 m³) auf – in Berlin und im gesamten Berliner Umland. Angekauft werden Altblei, Bleibatterien und Bleikabel – vergütet nach tagesaktuellen Preisen. Da Blei-Recycling inzwischen die bedeutendste Bleiquelle in Deutschland ist, ist Ihr altes Blei bei uns nicht nur gut aufgehoben, sondern auch bares Geld wert.</p>",
+  "sections": [
+    {
+      "heading": "So läuft der Blei-Ankauf bei Peglow ab",
+      "html": "<ol><li><strong>Preis erfragen:</strong> Rufen Sie uns unter 030 43206315 an oder schreiben Sie per WhatsApp an 0175 769 17 18 – wir nennen Ihnen die aktuelle Vergütung für Ihre Bleisorte.</li><li><strong>Anliefern oder abholen lassen:</strong> Kommen Sie Mo–Fr zwischen 8 und 17 Uhr in die Soltauer Straße 27-29 (<a href=\"/anfahrt/\">Anfahrt hier</a>) – oder vereinbaren Sie bei größeren Mengen einen Container-Termin.</li><li><strong>Wiegen und Prüfen:</strong> Gewicht und Sorte werden vor Ort bestimmt, transparent und nachvollziehbar.</li><li><strong>Auszahlung:</strong> Sie erhalten Ihre Vergütung direkt nach dem Wiegen – fair nach Tagespreis.</li></ol>"
+    },
+    {
+      "heading": "Welchen Bleischrott nehmen wir an?",
+      "html": "<p>Der Schrotthandel unterteilt Bleischrott grob in <strong>Bleikabel, Altblei und Bleibatterien</strong> – und genau diese drei Gruppen kaufen wir an. Ob einzelne Autobatterie aus der Garage, Bleirohre aus der Sanierung oder Bleireste aus dem Handwerksbetrieb: Bringen Sie vorbei, was überwiegend aus Blei besteht. Was Blei als Metall ausmacht und wo es überall drinsteckt, lesen Sie in unserem <a href=\"/blei/\">Blei-Ratgeber</a>.</p>"
+    },
+    {
+      "heading": "Wie kommt der Bleipreis zustande?",
+      "html": "<p>Der Preis, den wir Ihnen auszahlen, hängt von der aktuellen Notierung an den Metallbörsen, der Bleisorte und dem Zustand des Materials ab. Sortenreines Altblei ohne Fremdanhaftungen wird anders bewertet als Batterien oder ummantelte Bleikabel. Deshalb nennen wir Preise immer tagesaktuell – am schnellsten telefonisch unter 030 43206315. Einen Überblick über alle Materialien finden Sie auf unserer Seite <a href=\"/schrottpreise/\">Schrottpreise</a>.</p>"
+    },
+    {
+      "heading": "Container für Blei in Berlin und Umland",
+      "html": "<p>Bei größeren Mengen – etwa aus Dachsanierung, Rückbau oder Betriebsauflösung – müssen Sie das schwere Metall nicht selbst bewegen: Wir stellen Ihnen für Bleischrott einen <a href=\"/container/\">Container zum Selbstbeladen</a> in unserem gesamten <a href=\"/einzugsgebiete/\">Einzugsgebiet</a> auf – das ganz Berlin und das gesamte Berliner Umland umfasst. Als geprüfter Entsorgungsfachbetrieb gemäß §56 KrWG garantieren wir dabei die fachgerechte Verwertung – gerade bei einem giftigen Schwermetall wie Blei kein unwichtiges Detail.</p>"
+    }
+  ],
+  "checklist": [
+    "Auszahlung direkt nach dem Wiegen",
+    "Tagesaktuelle Preise – telefonisch vorab erfragbar",
+    "Annahme von Altblei, Bleibatterien und Bleikabeln",
+    "Container zum Selbstbeladen (5–30 m³) in ganz Berlin und im gesamten Berliner Umland",
+    "Geprüfter Entsorgungsfachbetrieb gemäß §56 KrWG",
+    "WhatsApp-Anfrage möglich: 0175 769 17 18"
+  ],
+  "table": {
+    "caption": "Blei-Ankauf: Positionen und Hinweise zur Anlieferung",
+    "head": [
+      "Position",
+      "Das nehmen wir an",
+      "Hinweis für die Anlieferung"
+    ],
+    "rows": [
+      [
+        "Altblei",
+        "Rohre, Platten, Gewichte, Bleireste",
+        "Möglichst sortenrein, ohne Eisen- oder Kunststoffanhaftungen"
+      ],
+      [
+        "Bleibatterien",
+        "Autobatterien aus Pkw, Lkw und Maschinen",
+        "Aufrecht transportieren, Gehäuse unbeschädigt, keine auslaufende Säure"
+      ],
+      [
+        "Bleikabel",
+        "Alte Kabel mit Bleimantel",
+        "Getrennt von normalem Kabelschrott anliefern"
+      ]
+    ]
+  },
+  "faq": [
+    {
+      "q": "Wo kann ich in Berlin Blei verkaufen?",
+      "a": "Direkt bei Peglow Schrott und Metallhandel e.K. am Schrottplatz Soltauer Straße 27-29, 13509 Berlin-Reinickendorf. Geöffnet ist Mo–Fr von 8 bis 17 Uhr, eine Anmeldung ist nicht nötig. Bei größeren Mengen stellen wir Ihnen dafür auch einen Container zum Selbstbeladen in ganz Berlin und im Umland auf."
+    },
+    {
+      "q": "Stellt Peglow für Bleischrott auch einen Container?",
+      "a": "Ja, bei entsprechenden Mengen stellen wir Ihnen einen Container zum Selbstbeladen (5–30 m³) in ganz Berlin und im gesamten Berliner Umland auf. Rufen Sie uns unter 030 43206315 an und beschreiben Sie kurz Menge und Material – dann vereinbaren wir einen Termin."
+    },
+    {
+      "q": "Wie erfahre ich den aktuellen Ankaufspreis für Blei?",
+      "a": "Am schnellsten telefonisch unter 030 43206315 oder per WhatsApp an 0175 769 17 18. Da sich Metallpreise täglich ändern, nennen wir grundsätzlich tagesaktuelle Preise statt veralteter Listen. Nennen Sie uns Sorte und ungefähre Menge, dann bekommen Sie eine konkrete Auskunft."
+    },
+    {
+      "q": "Muss ich mein Blei sortenrein anliefern?",
+      "a": "Sie müssen nicht, es lohnt sich aber: Sortenreines Altblei lässt sich besser bewerten als gemischtes Material mit Anhaftungen. Wenn Sie Blei, Batterien und Kabel getrennt anliefern, geht die Bewertung schneller. Unsortiertes Material nehmen wir trotzdem an und sortieren es vor Ort."
+    },
+    {
+      "q": "Nimmt Peglow auch beschädigte Autobatterien an?",
+      "a": "Melden Sie beschädigte oder auslaufende Batterien bitte vorab telefonisch unter 030 43206315 an, damit wir den sicheren Umgang klären können. Intakte Autobatterien können Sie jederzeit Mo–Fr von 8 bis 17 Uhr in der Soltauer Straße 27-29 abgeben."
+    }
+  ],
+  "service_schema": {
+    "name": "Blei-Ankauf Berlin",
+    "serviceType": "Ankauf von Blei",
+    "description": "Ankauf von Altblei, Bleibatterien und Bleikabeln mit Anlieferung in Berlin-Reinickendorf oder Container zum Selbstbeladen in Berlin und Umland."
+  },
+  "related": [
+    [
+      "Blei-Ratgeber: Sorten & Wissen",
+      "/blei/"
+    ],
+    [
+      "Metall-Ankauf im Überblick",
+      "/metall-ankauf/"
+    ],
+    [
+      "Aktuelle Schrottpreise",
+      "/schrottpreise/"
+    ],
+    [
+      "Einzugsgebiete & Container",
+      "/einzugsgebiete/"
+    ]
+  ],
+  "cta_heading": "Blei verkaufen? Jetzt Tagespreis sichern!",
+  "cta_text": "Ein Anruf genügt: 030 43206315. Oder kommen Sie Mo–Fr von 8 bis 17 Uhr direkt in die Soltauer Straße 27-29 nach Reinickendorf."
+}
