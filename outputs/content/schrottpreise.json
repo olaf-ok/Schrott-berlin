@@ -1,9 +1,9 @@
 {
  "path": "/schrottpreise/",
  "template": "service",
- "title": "Aktuelle Schrottpreise Berlin – Tabelle & Tagespreise",
- "meta_description": "Aktuelle Schrottpreise in Berlin: Tabelle aller Materialien von Kupfer bis Stahl – ehrliche Tagespreise statt veralteter Listen. ☎ 030 43206315",
- "h1": "Aktuelle Schrottpreise in Berlin – Tagespreise & Tabelle",
+ "title": "Schrottpreise Berlin – aktueller Tagespreis | Peglow",
+ "meta_description": "Schrottpreise in Berlin: Peglow nennt Ihnen den aktuellen Tagespreis für Kupfer, Messing, Alu und Stahl – per WhatsApp mit Foto in Minuten. ☎ 030 43206315",
+ "h1": "Schrottpreise in Berlin – aktuelle Tagespreise für Ihr Material",
  "hero_kicker": "Schrottplatz Berlin-Reinickendorf",
  "hero_text": "Schrottpreise ändern sich täglich. Wir nennen Ihnen den aktuellen Preis für Ihr Material – ehrlich, direkt und ohne versteckte Abzüge.",
  "hero_image": "money-2991387_1920.webp",
@@ -150,6 +150,14 @@
   [
    "Container mieten",
    "/container/"
+  ],
+  [
+   "Schrott- und Altmetall-Ankauf",
+   "/ankauf/"
+  ],
+  [
+   "Moniereisen-Ankauf",
+   "/moniereisen/"
   ]
  ],
  "cta_heading": "Aktuellen Schrottpreis erfragen – ein Anruf genügt!",

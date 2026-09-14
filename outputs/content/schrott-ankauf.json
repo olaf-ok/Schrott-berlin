@@ -6,7 +6,7 @@
  "h1": "Schrott Ankauf in Berlin – wir kaufen Ihren Schrott zu Tageshöchstpreisen",
  "hero_kicker": "Schrottplatz Berlin-Reinickendorf",
  "hero_text": "Vom Moniereisen bis zum Mischschrott: Bei uns wird Ihr Schrott präzise gewogen, fair berechnet und direkt vergütet.",
- "hero_image": "schrott_guss.webp",
+ "hero_image": "messing-armaturen-hero.webp",
  "breadcrumb": [
   [
    "Startseite",
@@ -131,6 +131,10 @@
   [
    "Schrotthandel Berlin",
    "/schrotthandel/"
+  ],
+  [
+   "Schrott- und Altmetall-Ankauf",
+   "/ankauf/"
   ]
  ],
  "cta_heading": "Schrott zu verkaufen? Wir kaufen an – heute noch!",

@@ -105,7 +105,7 @@
   {
    "name": "Messing",
    "href": "/messing/",
-   "img": "messing.webp"
+   "img": "messing-armaturen.webp"
   },
   {
    "name": "Zink",
@@ -135,10 +135,11 @@
   {
    "name": "Eisen",
    "href": "/eisen-schrott/",
-   "img": "construction-material-grid-metal-35543.webp"
+   "img": "eisenschrott-container.webp"
   },
   {
-   "name": "Mischschrott",
+   "name": "Handelsguss",
+   "alt": "Handelsguss und gemischter Schrott beim Ankauf bei Peglow Berlin",
    "href": "/mischschrott/",
    "img": "schrott_guss-1.webp"
   }

@@ -80,9 +80,36 @@ Build (`python3 build.py`) + QA (`python3 qa_check.py`): **0 Fehler / 0 Warnunge
 **Offene Frage für Olaf:** Die Container-Maßtabelle auf `container.json` (Abmessungen L×B×H) zeigt für die kleinste Größe noch die alten Werte (vorher als 7 m³ angenommen). Da jetzt 5 m³ als kleinste Größe bestätigt ist, müssen die genauen Maße (L×B×H) noch mit Olaf abgeglichen werden, bevor die Tabelle final stimmt — wurde in diesem Durchgang nicht angefasst, um keine Zahlen zu erfinden.
 
 
+## Git-Backup (03.09.2026)
+Lokales Repo initialisiert, Push nach `https://github.com/olaf-ok/Schrott-berlin.git` (Branch `main`). SSH-Key `github_olaf_ok` wurde von GitHub abgelehnt, daher HTTPS via `gh`-Credential-Helper. Künftige Backups: `git add -A && git commit -m "..." && git push`.
+
 ## Behobene Bugs
 - 01.09.2026: `render_legal()` in templates.py gab das `intro`-Feld nie aus → Verantwortlicher-Block der Datenschutzerklärung fehlte seit Relaunch. Behoben, Impressum zeigt seitdem ebenfalls sein Intro.
 - 03.09.2026: `header_html()` in templates.py enthielt einen Backslash in einer f-string-Expression → SyntaxError unter Python 3.10 (System-Python auf Olafs Mac, Build funktionierte bislang nur in einer neueren Python-Umgebung). Fix: Bedingung in eine Variable ausgelagert, Build läuft jetzt auch lokal mit Python 3.10.12.
 
 ## Vorfall-Log
 - Content-Agent für Bezirksseiten wurde durch monatliches API-Spend-Limit abgebrochen → 5 Seiten manuell nachgeschrieben, Reviews inline statt per Agent durchgeführt
+
+## Deploy-Weg geklärt (14.09.2026)
+Olaf fragte, ob er Änderungswünsche im Chat geben kann und Claude live stellen kann. **Ja — verifiziert am 14.09.2026:**
+- **Kein Mittwald-MCP nötig und keiner vorhanden** (Refresh der MCP-Server zeigt keinen Mittwald-Server; installierte Extensions: chrome-control, filesystem, notes, pdf-server). Die Mittwald-**CLI** `mw` ist auf dem Mac installiert (/opt/homebrew/bin/mw, v1.20.1) — für VHost-/App-Verwaltung, nicht für Datei-Deploy.
+- **Deploy läuft über Desktop-Commander** (MCP mit vollem Mac-Zugriff): `start_process` führt Befehle in Olafs echtem Benutzerkonto aus, damit stehen die SSH-Keys in `~/.ssh` zur Verfügung. SSH zum Mittwald-Host getestet: **funktioniert** (`SSH_OK`).
+- **NICHT möglich** ist der Weg über die Cowork-Linux-VM (`device_bash`): die hat ein eigenes, leeres `$HOME` ohne Olafs SSH-Keys → `Permission denied (publickey)`. Deshalb immer Desktop-Commander für Deploys verwenden.
+- Ablauf: `cd ~/Documents/Code/Schrott-Berlin-2026/outputs && python3 build.py && python3 qa_check.py` → Ergebnis Olaf zeigen → nach OK `rsync -rlptz --delete site/ "info@ok-marked.com@p-asttdj@ssh.altgemeinde.project.host:/home/p-asttdj/html/webnew2026/"` (bzw. `./deploy.sh`, das alle drei Schritte macht).
+- Stand 14.09.2026: Build + QA 0/0, rsync-Dry-Run zeigt 72 Dateien nur mit `<f..t....` = **reine Timestamp-Differenz, inhaltlich identisch** mit dem Live-Stand. Es steht also nichts Unveröffentlichtes an.
+- Hinweis: Python auf dem Mac ist inzwischen 3.14.6, Build läuft fehlerfrei.
+
+## SEO-Arbeiten 14.09.2026 (deployt)
+**Anlass:** Auswertung der Entwicklung seit dem Relaunch (01.09.) gegen die Zeit davor.
+
+**Änderungen im Repo:**
+- `related`-Verlinkung in 14 Content-Dateien ergänzt. Vorher/nachher (live geprüft): `/ankauf/` 0→6 verlinkende Seiten, `/schrott-reinickendorf/` 1→3, `/altmetall-reinickendorf/` 2→3, `/moniereisen/` →4, `/brennerschrott/` →4, `/schrottplatz-berlin/` →14.
+- `schrottpreise.json`: Title, Meta und H1 versprachen eine Preistabelle, die die Seite nicht hat (H2 dort: „Warum gibt es bei uns keine feste Preisliste?"). Neu: „Schrottpreise Berlin – aktueller Tagespreis | Peglow", H1 „Schrottpreise in Berlin – aktuelle Tagespreise für Ihr Material", Meta mit dem WhatsApp-Weg. Kein Tabellen-Versprechen mehr.
+- `moniereisen.json` und `peglow-schrott.json`: Meta-Description von je 160 auf ~135 Zeichen gekürzt.
+- `build.py`: `TODAY` stand fest auf `date(2026, 9, 1)` — die Sitemap meldete nach jedem Deploy „nichts geändert". Jetzt `date.today()`. Nebenwirkung: Jeder Build ändert alle 63 `lastmod`-Werte.
+
+**Zwischenfall beim Deploy:** 66 leere Duplikat-Ordner (`ankauf 2`, `zink 2`, `schrottpreise 3` …) und 8 Duplikat-Dateien (`.htaccess 2`, `sitemap 2.xml`, `robots 2.txt`, `index 2.html` …) lagen in `site/` und sind beim ersten rsync auf den Server gewandert. Lokal per `rmdir` entfernt, zweiter rsync mit `--delete` hat sie serverseitig gelöscht. Live als 404 verifiziert, Server hat 67 Ordner / 0 Duplikate. **Sie entstehen nicht beim Build** — ein sauberer Build danach erzeugte null. Pflichtprüfung vor jedem Deploy: `find site -maxdepth 1 -name "* [0-9]*" | wc -l`.
+
+**Nicht geändert, bewusst:** `.htaccess`. Der geplante „ein Hop statt zwei"-Fix wäre wirkungslos — in `htaccess.src` steht gar kein Redirect, die Kette 308→301 kommt vom Mittwald-Stack und greift vor Apache.
+
+**Außerhalb des Repos erledigt:** Google Business Profile zeigte als Website auf `http://www.schrott-berlin.de/` → auf `https://schrott-berlin.de/` geändert. Semrush Position Tracking von 71 auf 87 Keywords erweitert. Search Console: Sitemap neu eingereicht, Indexierung für `/schrottpreise/` und `/moniereisen/` beantragt. Details im Projektstatus unter `ZENTRALES BRAIN/03 Kundenprojekte/Peglow Schrott/Projekte/Webseite/SEO/`.

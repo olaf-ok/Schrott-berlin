@@ -324,7 +324,7 @@ def materials_grid_html(page, site, img_dims):
     def card(m, dup=False):
         extra = ' aria-hidden="true" tabindex="-1"' if dup else ""
         return (f'<a class="mat-card" href="{esc(m["href"])}"{extra}>'
-                f'{img_tag(m["img"], esc(m["name"]) + "-Schrott – Ankauf bei Peglow Berlin", site, img_dims)}'
+                f'{img_tag(m["img"], esc(m.get("alt") or m["name"] + "-Schrott – Ankauf bei Peglow Berlin"), site, img_dims)}'
                 f'<span class="mat-stripe">{esc(m["name"])}</span></a>')
 
     # Kartensatz doppelt für nahtlose Endlos-Schleife (Duplikate sind rein dekorativ)
@@ -697,6 +697,8 @@ SECTION_ALT_TEXTS = {
     "kupfer_milberry.webp": "Blanker Kupferdraht (Millberry) beim Ankauf",
     "kupfer_raff.webp": "Kupfer-Raff: gebrauchte Kupferrohre und -bleche",
     "messing.webp": "Messing-Schrott: Armaturen und Fittings",
+    "messing-armaturen.webp": "Messing-Schrott: Armaturen, Fittings und Wasserhähne im Container",
+    "messing-armaturen-hero.webp": "Container voller Messing-Armaturen und Buntmetall beim Ankauf in Berlin",
     "messing_raff.webp": "Messing-Raff beim Metall-Ankauf",
     "zink.webp": "Zink-Schrott: Dachrinnen und Bleche",
     "blei-header.webp": "Blei-Schrott beim Ankauf",
@@ -711,6 +713,7 @@ SECTION_ALT_TEXTS = {
     "aluminum-scrap-e1557150174466.webp": "Aluminium-Schrott vor der Verwertung",
     "aluminum-scrap-1024x683.jpg.webp": "Sortierter Metallschrott",
     "construction-material-grid-metal-35543.webp": "Eisen- und Stahlschrott",
+    "eisenschrott-container.webp": "Eisenschrott im Container: Rohre, Bleche und Heizkörper",
     "moniereisen_01.webp": "Moniereisen und Bewehrungsstahl",
     "bremsscheiben.webp": "Alte Bremsscheiben beim Ankauf",
     "brennerschrott.webp": "Brennerschrott und Heizkessel",

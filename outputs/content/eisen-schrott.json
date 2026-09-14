@@ -135,6 +135,10 @@
   [
    "Aktuelle Schrottpreise",
    "/schrottpreise/"
+  ],
+  [
+   "Brennerschrott-Ankauf",
+   "/brennerschrott/"
   ]
  ],
  "cta_heading": "Eisen loswerden und Tageshöchstpreis kassieren?",

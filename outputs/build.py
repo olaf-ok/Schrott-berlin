@@ -18,7 +18,7 @@ STATIC = os.path.join(BASE, "static")
 ASSETS = os.path.join(ROOT, "reference", "design", "assets")
 OUT = os.path.join(BASE, "site")
 
-TODAY = date(2026, 9, 1).isoformat()  # Livegang + Umami-Einbau
+TODAY = date.today().isoformat()  # lastmod der Sitemap = Build-Datum (vorher fest auf 2026-09-01, dadurch meldete die Sitemap nach jedem Deploy "nichts geaendert")
 
 
 # ------------------------------------------------------------ Bildmaße -----
